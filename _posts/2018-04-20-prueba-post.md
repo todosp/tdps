@@ -4,15 +4,10 @@ title: My prueba de un post
 summary: Esta es una prueba de como hacer un post y este texto es el resumen.
 featured-img: nikon-d700-pictures
 description: PRuebaaa meta description aaaassa sa dasd asd
-<<<<<<< HEAD
-categories: [Category1, category2]
-tags: [test, try, prueba]
-=======
-categories: Category1, Category2
+categories: Material
 tags: [Test, Try, Prueba]
 redirect_from:
   - prueba-redirect
->>>>>>> 7b9996c9d47ce44914b653a25ed2a573cc07147c
 ---
 
 
