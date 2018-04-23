@@ -41,7 +41,7 @@ layout: compress
           </span>
           <br>
           {% for category in page.categories %}
-          <span><a href="{{site.url}}/categorias/#{{category|slugize}}">{{ category }}</a></span>
+          <span><a href="{{site.url}}/categorias/{{category|slugize}}">{{ category }}</a></span>
           {% unless forloop.last %}&nbsp;{% endunless %}
           {% endfor %}
         </p>

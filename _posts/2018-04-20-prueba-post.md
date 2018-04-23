@@ -4,8 +4,8 @@ title: My prueba de un post
 summary: Esta es una prueba de como hacer un post y este texto es el resumen.
 featured-img: nikon-d700-pictures
 description: PRuebaaa meta description aaaassa sa dasd asd
-categories: Category1, Category2
-tags: [Test, Try, Prueba]
+categories: [Category1, category2]
+tags: [test, try, prueba]
 ---
 
 
