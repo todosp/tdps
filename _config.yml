@@ -8,6 +8,7 @@ url: "https://www.todosupervivencia.es" # the base hostname & protocol for your 
 twitter_username: essupervivencia # replace with your_twitter_username or comment to remove link from footer
 github_username:  my_blogg # replace with your_github_username or comment to remove link from footer
 instagram_username: es_supervivencia # replace with your_instagram_username or comment to remove link from footer
+facebook_username: todosupervivencia
 social:
   name: Your Name
   links:
@@ -46,3 +47,4 @@ compress_html:
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-redirect-from
