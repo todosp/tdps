@@ -6,6 +6,8 @@ featured-img: nikon-d700-pictures
 description: PRuebaaa meta description aaaassa sa dasd asd
 categories: Category1, Category2
 tags: [Test, Try, Prueba]
+redirect_from:
+  - prueba-redirect
 ---
 
 
