@@ -5,7 +5,7 @@ summary: Esta es una prueba de como hacer un post y este texto es el resumen.
 featured-img: nikon-d700-pictures
 description: PRuebaaa meta description aaaassa sa dasd asd
 categories: Material
-tags: [Test, Try, Prueba]
+tags: Test, Try, Prueba
 redirect_from:
   - prueba-redirect
 ---

@@ -46,10 +46,16 @@
   }
 
   .header__logo--container {
-    width: 58px;
-    background-color: red;
+    
+    width: 300px;
+    .text-logo{
+      font-size: 2.1rem;
+      font-weight: bold;
+    }
+    
 
     .logo {
+      width: 58px;
       fill: currentColor;
     }
   }
