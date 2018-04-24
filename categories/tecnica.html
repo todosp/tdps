@@ -1,0 +1,14 @@
+---
+layout: page
+permalink: /categorias/tecnica
+title: Categoria tecnicas de supervivencia
+---
+
+<!-- {% for post in site.categories.Category1 %}
+ <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+ -->
+<div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
+    {% for post in site.categories.Tecnica %} {% include card.html %} {% endfor %}
+    <!-- {% include pagination.html %} -->
+</div>
