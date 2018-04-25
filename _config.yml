@@ -20,7 +20,7 @@ social:
     - https://keybase.io/benbalter
 
 disqus:
-  shortname: asdad  # to enable comments replace with your_disqus_shortname
+  shortname: todosupervivenciaes  # to enable comments replace with your_disqus_shortname
 
 # Build settings
 markdown: kramdown
@@ -48,3 +48,5 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-redirect-from
+
+comments: true

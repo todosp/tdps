@@ -2,7 +2,7 @@
 layout: post
 title: Getting Started with Sleek
 featured-img: sleek
-categories: tecnica
+categories: Tecnica
 tags: test, test2
 
 ---
