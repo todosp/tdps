@@ -20,7 +20,7 @@ social:
     - https://keybase.io/benbalter
 
 disqus:
-  shortname: es_supervivencia # to enable comments replace with your_disqus_shortname
+  shortname: asdad  # to enable comments replace with your_disqus_shortname
 
 # Build settings
 markdown: kramdown
