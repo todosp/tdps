@@ -51,4 +51,5 @@ plugins:
   - jekyll-redirect-from
 
 lang: es_ES
+google_tag_manager: ""
 
