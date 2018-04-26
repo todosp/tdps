@@ -4,6 +4,7 @@ title: Getting Started with Sleek
 featured-img: sleek
 categories: Tecnica
 tags: test, test2
+comments: true
 
 ---
 

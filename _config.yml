@@ -20,7 +20,8 @@ social:
     - https://keybase.io/benbalter
 
 disqus:
-  shortname: todosupervivenciaes  # to enable comments replace with your_disqus_shortname
+  shortname: https-todosp-github-io-tdps  # to enable comments replace with your_disqus_shortname
+  comments: true
 
 # Build settings
 markdown: kramdown
@@ -49,4 +50,3 @@ plugins:
   - jekyll-seo-tag
   - jekyll-redirect-from
 
-comments: true

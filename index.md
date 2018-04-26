@@ -6,4 +6,5 @@
 #
 layout: default
 title: Todo supervivencia
+comments: true
 ---
