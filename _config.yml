@@ -50,3 +50,5 @@ plugins:
   - jekyll-seo-tag
   - jekyll-redirect-from
 
+lang: es_ES
+
