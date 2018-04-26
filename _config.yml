@@ -2,22 +2,19 @@ title: Todo supervivencia # your site title
 author: todosupervivencia_es
 email: todosupervivenciaes@gmail.com # email for form submission, you also have to change it in _js/scripts.js
 description: > # this means to ignore newlines until "baseurl:"
-  Esto es la meta description del index me imagino
+  Blog de supervivencia o bushcraft. Te enseñaremos las mejores técnicas de supervivencia y el material necesario para construir tu kit de supervivencia para cualquier situación
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://todosp.github.io/tdps" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: essupervivencia # replace with your_twitter_username or comment to remove link from footer
-github_username:  my_blogg # replace with your_github_username or comment to remove link from footer
+# github_username:  my_blogg # replace with your_github_username or comment to remove link from footer
 instagram_username: es_supervivencia # replace with your_instagram_username or comment to remove link from footer
-facebook_username: todosupervivencia
+facebook_username: Supervivencia-376257366193415
 social:
-  name: Your Name
+  name: Todo Supervivencia
   links:
-    - https://twitter.com/BenBalter
-    - https://www.facebook.com/ben.balter
-    - https://www.linkedin.com/in/BenBalter
-    - https://plus.google.com/+BenBalter
-    - https://github.com/benbalter
-    - https://keybase.io/benbalter
+    - https://twitter.com/essupervivenciar
+    - https://www.facebook.com/Supervivencia-376257366193415/
+    - https://plus.google.com/u/0/103843152541590455758
 
 disqus:
   shortname: https-todosp-github-io-tdps  # to enable comments replace with your_disqus_shortname
