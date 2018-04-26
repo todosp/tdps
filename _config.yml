@@ -23,7 +23,7 @@ disqus:
 # Build settings
 markdown: kramdown
 highlighter: rouge # or pygments or null
-theme: jekyll-sleek-modified
+# theme: jekyll-sleek-modified
 exclude:
   - README.md
   - node_modules
