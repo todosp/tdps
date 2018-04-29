@@ -46,7 +46,10 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-redirect-from
+  - jekyll-paginate
 
 lang: es_ES
 google_tag_manager: ""
+paginate: 6
+paginate_path: "/page:num/"
 
