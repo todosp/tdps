@@ -1,18 +1,19 @@
 ---
 layout: page
-title: Acerca de
+title: Acerca de Todosupervivencia
+description: Conoce cual es el objetivo de nuestro blog. Guía para la supervivencia y autosuficiencia en la naturaleza. Las mejores herramientas para aprovechar al máximo lo que nos proporciona el entorno.
 permalink: /acerca-de/
 ---
 
 <div class="page-content">
-    Sleek is a modern Jekyll theme focused on speed performance & SEO best practices. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/) or simply read the guide on how to [get started](/getting-started)
+	<h2>Objetivo</h2>
+	<p>
+    Esta página esta hecha por amantes de la naturaleza y el bushcraft como forma de compartir conocimientos con otros aficionados. Nuestro objetivo principal es conseguir entre todos recopilar información de calidad, por un lado para salir de situaciones de supervivencia extrema, y por otro lado para alcanzar la autosuficiencia aprovechando todo lo que la naturaleza nos da. Para ello, hablaremos de técnicas de supervivencia primitivas y desglosaremos todos los elementos que deben formar un buen kit de supervivencia. 
+	</p>
+	<p></p>
 
-    You can find the source code for the Jekyll new theme at:
-    [sleek](https://github.com/janczizikow/sleek)
+	<h3>Amazon afiliados</h3>
+	<p>todosupervivencia.es participa en el Programa de Afiliados de Amazon EU, un programa de publicidad para afiliados diseñado para ofrecer a sitios web un modo de obtener comisiones por publicidad, publicitando e incluyendo enlaces a Amazon.co.uk/ Amazon.de/ de.buyvip.com/Amazon.fr/Amazon.it/it.buyvip.com/ Amazon.es/es.buyvip.com.</p>
 
-    You can find the source code for Jekyll at
-    [jekyll](https://github.com/jekyll/jekyll)
-
-    Esto lo he escrito yo {{site.title}}
 
 </div>

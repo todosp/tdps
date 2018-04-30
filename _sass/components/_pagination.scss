@@ -2,4 +2,14 @@
   display: flex;
   justify-content: center;
   margin: 1.25rem auto;
+  width: 50%;
+  margin: 0 auto;
+  margin-bottom: 15px;
+  .previous{
+  	margin-right: 5px;
+  }
+  .next_pag{
+  	margin-left: 5px;
+  }
+
 }
