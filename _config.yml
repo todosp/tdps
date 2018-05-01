@@ -49,7 +49,7 @@ plugins:
   - jekyll-paginate
 
 lang: es_ES
-google_tag_manager: ""
+google_tag_manager: "UA-118448445-1"
 paginate: 6
 paginate_path: "/page:num/"
 
