@@ -1,7 +1,7 @@
 #title: Todo supervivencia # your site title
 author: todosupervivencia_es
 email: todosupervivenciaes@gmail.com # email for form submission, you also have to change it in _js/scripts.js
-#description: Blog de supervivencia y bushcraft. Te enseñaremos las mejores técnicas de supervivencia y el material necesario para construir tu kit de supervivencia para cualquier situación
+description: Blog de supervivencia y bushcraft. Te enseñaremos las mejores técnicas de supervivencia y el material necesario para construir tu kit de supervivencia para cualquier situación
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://www.todosupervivencia.es" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: essupervivencia # replace with your_twitter_username or comment to remove link from footer

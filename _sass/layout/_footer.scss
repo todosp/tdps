@@ -22,6 +22,7 @@ footer {
   align-items: center;
   max-width: 200px;
   margin: 0 auto 25px;
+
 }
 
 .social__link:not(:last-child) {
@@ -45,4 +46,9 @@ footer {
 .about{
   font-weight: bold;
   cursor: pointer;
+  /*display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 200px;
+  margin: 0 auto 25px; */
 }
