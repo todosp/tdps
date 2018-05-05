@@ -17,7 +17,8 @@
   {% endif %}
   <div class="post-card__inner">
     <div class="post-card__header">
-      <h2 itemprop="title">{{ post.title | strip_html | truncate: 50 }}</h2>
+    <meta itemprop="author" content="todo supervivencia">
+      <h2 itemprop="name">{{ post.title | strip_html | truncate: 50 }}</h2>
       {% assign date_format = site.sleek.date_format | default: "%b %-d, %Y" %} 
       <span class="post-card__meta">
         <time itemprop="datePublished">{{ post.date | date: date_format }}</time>
