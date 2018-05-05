@@ -18,11 +18,10 @@
   <div class="post-card__inner">
     <div class="post-card__header">
     <meta itemprop="author" content="todo supervivencia">
-      <h2 itemprop="name" itemprop="headline">{{ post.title | strip_html | truncate: 50 }}</h2>
+      <h2 itemprop="name">{{ post.title | strip_html | truncate: 50 }}</h2>
       {% assign date_format = site.sleek.date_format | default: "%b %-d, %Y" %} 
       <span class="post-card__meta">
         <time itemprop="datePublished">{{ post.date | date: date_format }}</time>
-        <meta itemprop="publisher" content="Todo supervivencia">
         <div>
           {% if post.categories.size > 0 %}
             <span class="tags">
