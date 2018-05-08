@@ -7,6 +7,9 @@ description: En situaciones de supervivencia ser capaz de hacer fuego es impresc
 categories: Tecnica
 tags: fuego
 comments: true
+redirect_from:
+  - 2017/09/los-mejores-pedernales-para-hacer-fuego.html
+  - 2017/09/tecnica-primitivas-para-hacer-fuego.html
 ---
 
 
