@@ -13,8 +13,6 @@ comments: true
 
 <h2>37ºc: Como Salvar Tu Culo</h2>
 
-<p style="display:none">Para todos aquellos que no han recibido un entrenamiento práctico en habilidades de supervivencia, el estudio de un manual de supervivencia de calidad es la mejor opción. Si estás buscando una guía para dar los primeros pasos, aquí os dejamos una selección de nuestros títulos favoritos traducidos al español.</p>
-
 <a href="https://www.amazon.es/gp/product/8498290015/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=8498290015&linkCode=as2&tag=tdspvv-21&linkId=484d34a1d311d90a584d8117f4025865" imageanchor="1" ><img border="0" src="https://images-na.ssl-images-amazon.com/images/I/61wiB1BD68L._SX375_BO1,204,203,200_.jpg" width="242" height="320" data-original-width="377" data-original-height="499" alt="37 como salvar tu culo" /></a>
 
 <p>La mayoría de personas conocen a<a href="https://es.wikipedia.org/wiki/Cody_Lundin"> Cody Lundin</a> como el tío que va descalzo en el programa dúo de supervivientes.
