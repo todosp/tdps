@@ -15,7 +15,7 @@ comments: true
 
 <h2>Exotac nanostricker XL</h2>
 
-<a href="https://www.amazon.es/gp/product/B007DL8TUM/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B007DL8TUM&linkCode=as2&tag=todosupervi05-21&linkId=3610d2538a9f2cbc491b37173aeeafe0" imageanchor="1" ><img  src="{{ '/assets/img/posts/pedernal_exotac1.jpg' | absolute_url }}" class="product-img" alt="Exotac nanostricker XL" /></a>
+<a href="https://www.amazon.es/gp/product/B007DL8TUM/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B007DL8TUM&linkCode=as2&tag=todosupervi05-21&linkId=3610d2538a9f2cbc491b37173aeeafe0" imageanchor="1" ><img  src="{{ '/assets/img/posts/ped_exotac.jpg' | absolute_url }}" class="product-img" alt="Exotac nanostricker XL" /></a>
 
 <p>Es una versión ligeramente mayor al nanostricker original, con una varilla ligeramente mas larga de ferrocerio y magnesio y un raspador de carburo de tungsteno. Es más fácil de sostener y produce una chispa mas caliente. Se puede montar y desmontar fácilmente, es impermeable y cuenta con recambios.</p>
 
@@ -41,7 +41,7 @@ Podéis conseguirlo <a target="_blank" href="https://www.amazon.es/gp/product/B0
 <h2>Coleman magnesium fire</h2>
 
 
-<a href="https://www.amazon.es/gp/product/B00LWI0NQK/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B00LWI0NQK&linkCode=as2&tag=tdspvv-21&linkId=dea70a3efd3e04e973fcb426848d4b70" imageanchor="1" ><img src="https://images-na.ssl-images-amazon.com/images/I/41t5Qrsp17L.jpg" class="product-img" alt="Coleman magnesium fire" /></a>
+<a href="https://www.amazon.es/gp/product/B00LWI0NQK/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B00LWI0NQK&linkCode=as2&tag=tdspvv-21&linkId=dea70a3efd3e04e973fcb426848d4b70" imageanchor="1" ><img src="{{ '/assets/img/posts/ped_coleman.jpg' | absolute_url }}" class="product-img" alt="Coleman magnesium fire" /></a>
 
 <p>Este pedernal es resistente al agua, simple y confiable. Con el raspador, se raspa el bloque de magnesio para crear virutas que mas tarde prenderán con el pedernal que se encuentra al otro lado. El problema de este pedernal es que la piedra no dura tanto como la mayoría de pedernales.</p>
 
@@ -49,7 +49,7 @@ Podéis conseguirlo <a target="_blank" href="https://www.amazon.es/gp/product/B0
 
 <h2>Sol fire lite kit</H2>
 
-<a href="https://www.amazon.es/gp/product/B0091DVNLM/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B0091DVNLM&linkCode=as2&tag=tdspvv-21&linkId=5b0031e23764e66558a77ab294d51ae3" imageanchor="1" ><img src="https://images-na.ssl-images-amazon.com/images/I/71jBtYKEPAL._SL1500_.jpg" class="product-img" alt="Sol fire lite kit"/></a>
+<a href="https://www.amazon.es/gp/product/B0091DVNLM/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B0091DVNLM&linkCode=as2&tag=tdspvv-21&linkId=5b0031e23764e66558a77ab294d51ae3" imageanchor="1" ><img src="{{ '/assets/img/posts/ped_sol.jpg' | absolute_url }}" class="product-img" alt="Sol fire lite kit"/></a>
 
 <p>Este kit viene con un pedernal y 20 iniciadores de fuego en una bolsa impermeable y resellable. El pedernal tiene una rueda de sílex que produce la chispa. Los iniciadores duran 2 minutos encendidos y resisten al agua y el viento.La principal ventaja de este kit es su tamaño y peso, ya que es menor a un mechero corriente. </p>
 
@@ -58,7 +58,7 @@ Podéis conseguirlo <a target="_blank" href="https://www.amazon.es/gp/product/B0
 
 <h2>Gerber Bear Grylls</h2>
 
-<a href="https://www.amazon.es/gp/product/B004DT6TEK/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B004DT6TEK&linkCode=as2&tag=tdspvv-21&linkId=23ce33856fea162086a37bbc77890a94" imageanchor="1" ><img src="https://images-na.ssl-images-amazon.com/images/I/41VsymrOk5L.jpg" class="product-img" alt="Gerber Bear Grylls"/></a>
+<a href="https://www.amazon.es/gp/product/B004DT6TEK/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B004DT6TEK&linkCode=as2&tag=tdspvv-21&linkId=23ce33856fea162086a37bbc77890a94" imageanchor="1" ><img src="{{ '/assets/img/posts/ped_bear.jpg' | absolute_url }}" class="product-img" alt="Gerber Bear Grylls"/></a>
 
 <p>Este pedernal del famoso Bear Grylls es lo suficientemente compacto para llevarlo en la mochila o en el bolsillo, pero además un agarre lo suficientemente grande para proporcionar un agarre sólido.En el mango hay un raspador de ferrocerio que cuando no esta en uso encaja a la perfección en la carcasa hermética en la que hay suficiente espacio como para llevar arrancadores de fuego. Otra característica es el cordón y su silbato.</p>
 
@@ -67,7 +67,7 @@ Podéis conseguirlo <a target="_blank" href="https://www.amazon.es/gp/product/B0
 
 <h2>Boker plus</h2>
 
-<a href="https://www.amazon.es/gp/product/B00IF5IQTY/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B00IF5IQTY&linkCode=as2&tag=tdspvv-21&linkId=7098bbafeda31769e5d0fbf1b8de9b00" imageanchor="1" ><img src="https://images-na.ssl-images-amazon.com/images/I/41sE78GufjL.jpg" class="product-img" alt="Boker plus"/></a>
+<a href="https://www.amazon.es/gp/product/B00IF5IQTY/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B00IF5IQTY&linkCode=as2&tag=tdspvv-21&linkId=7098bbafeda31769e5d0fbf1b8de9b00" imageanchor="1" ><img src="{{ '/assets/img/posts/ped_boker.jpg' | absolute_url }}" class="product-img" alt="Boker plus"/></a>
 
 <p>Este pedernal incluye un recipiente de aluminio antideslizante con una brújula incorporada. El raspador contiene una regla, abridor de botellas. todos estos elementos están unidos por una cadena metálica que nos permitirá llevarlo al cuello.</p>
 
