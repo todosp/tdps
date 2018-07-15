@@ -15,7 +15,7 @@ comments: true
 
 <h2>Exotac nanostricker XL</h2>
 
-<a href="https://www.amazon.es/gp/product/B007DL8TUM/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B007DL8TUM&linkCode=as2&tag=todosupervi05-21&linkId=3610d2538a9f2cbc491b37173aeeafe0" imageanchor="1" ><img  src="https://images-na.ssl-images-amazon.com/images/I/411APbRHLML.jpg" class="product-img" alt="Exotac nanostricker XL" /></a>
+<a href="https://www.amazon.es/gp/product/B007DL8TUM/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B007DL8TUM&linkCode=as2&tag=todosupervi05-21&linkId=3610d2538a9f2cbc491b37173aeeafe0" imageanchor="1" ><img  src="{{ '/assets/img/posts/pedernal_exotac1.jpg' | absolute_url }}" class="product-img" alt="Exotac nanostricker XL" /></a>
 
 <p>Es una versión ligeramente mayor al nanostricker original, con una varilla ligeramente mas larga de ferrocerio y magnesio y un raspador de carburo de tungsteno. Es más fácil de sostener y produce una chispa mas caliente. Se puede montar y desmontar fácilmente, es impermeable y cuenta con recambios.</p>
 
@@ -23,7 +23,7 @@ Podéis conseguirlo <a target="_blank" href="https://www.amazon.es/gp/product/B0
 
 <h2>Swedish army firesteel</h2>
 
-<a href="https://www.amazon.es/gp/product/B01LE3GSQG/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B01LE3GSQG&linkCode=as2&tag=tdspvv-21&linkId=55410c17d66ea39fe26c457023111134" imageanchor="1" ><img src="https://images-na.ssl-images-amazon.com/images/I/41ooWKrzFzL.jpg" class="product-img" alt="Swedish army firesteel"/></a>
+<a href="https://www.amazon.es/gp/product/B01LE3GSQG/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B01LE3GSQG&linkCode=as2&tag=tdspvv-21&linkId=55410c17d66ea39fe26c457023111134" imageanchor="1" ><img src="{{ '/assets/img/posts/ped_swedish_army.jpg' | absolute_url }}" class="product-img" alt="Swedish army firesteel"/></a>
 
 <p>Su diseño básico y compacto permite llevarlo en cualquier lugar. Produce una gran cantidad de chispas incluso cuando esta mojado. Además es muy duradero, lo que te ahorrará comprar uno nuevo cada poco tiempo.</p>
 
@@ -31,7 +31,7 @@ Podéis conseguirlo <a target="_blank" href="https://www.amazon.es/gp/product/B0
 
 <h2>UST blastmatch</h2>
 
-<a href="https://www.amazon.es/gp/product/B00930XSOI/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B00930XSOI&linkCode=as2&tag=tdspvv-21&linkId=1036763fd701b8be18fe45820eca6737" imageanchor="1" ><img src="http://www.ustbrands.com/wp-content/uploads/2014/07/fire-single-hand-fire-starter-blastmatch-black2.jpg"  class="product-img" alt="UST blastmatch"/></a>
+<a href="https://www.amazon.es/gp/product/B00930XSOI/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B00930XSOI&linkCode=as2&tag=tdspvv-21&linkId=1036763fd701b8be18fe45820eca6737" imageanchor="1" ><img src="{{ '/assets/img/posts/ped_ust.jpg' | absolute_url }}"  class="product-img" alt="UST blastmatch"/></a>
 
 <p>Este es uno de los pedernales más fáciles de usar, con una mano es suficiente. Dentro del blastmatch se encuentra una barra de pedernal patentada y un raspador de tungsteno, que con solo apretar y empujar ligeramente producirá unas chispas directamente sobre las yesca. Además para evitar el desgaste siempre por el mismo lugar, cada vez que empujemos la barra, ésta gira ligeramente. Se puede bloquear para que no se produzcan chispas accidentalmente.</p>
 
