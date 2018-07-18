@@ -35,7 +35,7 @@ exclude:
   - gulpfile.js
   - sleek.png
 
-include: ['_pages']
+include: ['_pages','.htaccess']
 permalink: /:title/
 
 compress_html:
