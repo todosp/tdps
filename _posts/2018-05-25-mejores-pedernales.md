@@ -49,7 +49,7 @@ Podéis conseguirlo <a target="_blank" href="https://www.amazon.es/gp/product/B0
 
 <h2>Sol fire lite kit</H2>
 
-<a href="https://www.amazon.es/gp/product/B0091DVNLM/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B0091DVNLM&linkCode=as2&tag=tdspvv-21&linkId=5b0031e23764e66558a77ab294d51ae3" imageanchor="1" ><img src="{{ '/assets/img/posts/ped_sol1.jpg' | absolute_url }}" class="product-img" alt="Sol fire lite kit"/></a>
+<a href="https://www.amazon.es/gp/product/B0091DVNLM/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B0091DVNLM&linkCode=as2&tag=tdspvv-21&linkId=5b0031e23764e66558a77ab294d51ae3" imageanchor="1" ><img src="{{ '/assets/img/posts/ped_sol.jpg' | absolute_url }}" class="product-img" alt="Sol fire lite kit"/></a>
 
 <p>Este kit viene con un pedernal y 20 iniciadores de fuego en una bolsa impermeable y resellable. El pedernal tiene una rueda de sílex que produce la chispa. Los iniciadores duran 2 minutos encendidos y resisten al agua y el viento.La principal ventaja de este kit es su tamaño y peso, ya que es menor a un mechero corriente. </p>
 

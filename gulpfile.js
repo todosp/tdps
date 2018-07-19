@@ -160,10 +160,10 @@ gulp.task('img', function() {
       }, {
         width: 991,
         rename: { suffix: '_md' }
-      }, {
+      }/* , {
         width: 1999,
         rename: { suffix: '_lg' }
-      }, {
+      } */, {
         // max-width hero
         width: 1920,
       }],
@@ -173,5 +173,11 @@ gulp.task('img', function() {
       withMetadata: false,
     }))
     .pipe(imagemin())
-    .pipe(gulp.dest('assets/img/posts/'));
+    .pipe(gulp.dest('assets/img/posts'));
+});
+
+gulp.task('img2',function(){
+  gulp.src('_img/posts/*.{png,jpg}')
+    .pipe(imagemin())
+    .pipe(gulp.dest('assets/img/posts'));
 });
