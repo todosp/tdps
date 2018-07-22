@@ -23,9 +23,9 @@ Los principales materiales metálicos son el acero inoxidable, aluminio y titani
 A continuación hablaremos os dejamos nuestras favoritas.
 </p>
 
-<h2><a href="https://www.amazon.es/gp/product/B0093IRGZM/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B0093IRGZM&linkCode=as2&tag=todosupervi05-21&linkId=6b48a289f2ca8bc5fec884a89835e12b" style="color: inherit;text-decoration: inherit;">Cantimplora Klean</a></h2>
+<h2>Cantimplora Klean</h2>
 
-<a href="https://images-na.ssl-images-amazon.com/images/I/31M8izH-2cL.jpg" imageanchor="1" ><img border="0" src="https://images-na.ssl-images-amazon.com/images/I/31M8izH-2cL.jpg" width="228" height="320" data-original-width="357" data-original-height="500" alt="Cantimplora Klean"/></a>
+<a href="https://images-na.ssl-images-amazon.com/images/I/31M8izH-2cL.jpg" imageanchor="1" ><img border="0" src="{{ '/assets/img/posts/can_klean.jpg' | absolute_url }}" width="228" height="320" data-original-width="357" data-original-height="500" alt="Cantimplora Klean"/></a>
 
 <p>
 Compuesta de acero inoxidable, no contiene toxinas. Mantiene el agua fresca, incluso después de un largo día de caminata. En los primeros usos el agua tiene un sabor un poco metálico pero desaparece a partir del tercer uso. Para ser de acero inoxidable pesa muy poco. Gracias a la forma del tapón podemos llevarla colgada de nuestra mochila sin ningún problema. Hay varios tamaños para elegir.
@@ -34,25 +34,25 @@ Compuesta de acero inoxidable, no contiene toxinas. Mantiene el agua fresca, inc
 La podéis conseguir <a target="_blank" href="https://www.amazon.es/gp/product/B0093IRG2A/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B0093IRG2A&linkCode=as2&tag=tdspvv-21&linkId=c2577aac78cf93a52126e6bbf716c163">aquí</a><img src="//ir-es.amazon-adsystem.com/e/ir?t=tdspvv-21&l=am2&o=30&a=B0093IRG2A" width="1" height="1" border="0" alt="Cantimplora Klean" style="border:none !important; margin:0px !important;" />
 
 
-<h2><a href="https://www.amazon.es/gp/product/B001GSOHMC/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B001GSOHMC&linkCode=as2&tag=tdspvv-21&linkId=2d16597ef1dc742cc6c090c1ed755668" style="color: inherit;text-decoration: inherit;">Nalgene acero inoxidable</a></h2>
+<h2>Nalgene acero inoxidable</h2>
 
-<a href="https://www.amazon.es/gp/product/B001GSOHMC/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B001GSOHMC&linkCode=as2&tag=tdspvv-21&linkId=2d16597ef1dc742cc6c090c1ed755668" imageanchor="1" ><img border="0" src="https://images-na.ssl-images-amazon.com/images/I/41ORp%2BMeC1L._SX425_.jpg" width="228" height="320" max-width="43%" data-original-width="357" data-original-height="500" alt="Nalgene acero inoxidable"/></a>
+<a href="https://www.amazon.es/gp/product/B001GSOHMC/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B001GSOHMC&linkCode=as2&tag=tdspvv-21&linkId=2d16597ef1dc742cc6c090c1ed755668" imageanchor="1" ><img border="0" src="{{ '/assets/img/posts/can_nalgene.jpg' | absolute_url }}" width="228" height="320" max-width="43%" data-original-width="357" data-original-height="500" alt="Nalgene acero inoxidable"/></a>
 
 <p>Esta es una de las cantimploras mas populares del mercado y definitivamente vale su precio. Tiene rosca interior y boca ancha, para facilitar su llenado.</p>
 
 Podéis conseguirla <a target="_blank" href="https://www.amazon.es/gp/product/B001GSOHMC/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B001GSOHMC&linkCode=as2&tag=tdspvv-21&linkId=2d16597ef1dc742cc6c090c1ed755668">aquí</a><img src="//ir-es.amazon-adsystem.com/e/ir?t=tdspvv-21&l=am2&o=30&a=B001GSOHMC" width="1" height="1" border="0" alt="Nalgene acero inoxidable" style="border:none !important; margin:0px !important;" />
 
-<h2><a href="https://www.amazon.es/gp/product/B01KXHES02/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B01KXHES02&linkCode=as2&tag=tdspvv-21&linkId=e1b29633f49538ddf0614436249f1133" style="color: inherit;text-decoration: inherit;">Hydro Flask</a></h2>
+<h2>Hydro Flask</h2>
 
-<a href="https://www.amazon.es/gp/product/B01KXHES02/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B01KXHES02&linkCode=as2&tag=tdspvv-21&linkId=e1b29633f49538ddf0614436249f1133" imageanchor="1" ><img border="0" src="https://images-na.ssl-images-amazon.com/images/I/51qM9e7Tj2L._SL1000_.jpg" width="172" height="320" data-original-width="429" data-original-height="800" alt="Hydro Flask" /></a>
+<a href="https://www.amazon.es/gp/product/B01KXHES02/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B01KXHES02&linkCode=as2&tag=tdspvv-21&linkId=e1b29633f49538ddf0614436249f1133" imageanchor="1" ><img border="0" src="{{ '/assets/img/posts/can_hydro.jpg' | absolute_url }}" width="172" height="320" data-original-width="429" data-original-height="500" alt="Hydro Flask" /></a>
 
 <p>Aunque no se pueda colocar directamente sobre el fuego, esta botella merece una mención especial, ya que es una de las cantimploras que mejor conserva la temperatura del agua.</p>
 
 La podéis conseguirla <a target="_blank" href="https://www.amazon.es/gp/product/B01KXHES02/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B01KXHES02&linkCode=as2&tag=tdspvv-21&linkId=e1b29633f49538ddf0614436249f1133">aquí</a><img src="//ir-es.amazon-adsystem.com/e/ir?t=tdspvv-21&l=am2&o=30&a=B01KXHES02" width="1" height="1" border="0" alt="Hydro Flask" style="border:none !important; margin:0px !important;" />
 
-<h2><a href="https://www.amazon.es/gp/product/B008Y2S3UK/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B008Y2S3UK&linkCode=as2&tag=tdspvv-21&linkId=e98c168e38a0d10681dddd0d14b7f868" style="color: inherit;text-decoration: inherit;">Vargo Titanium</a></h2>
+<h2>Vargo Titanium</h2>
 
-<a href="https://www.amazon.es/gp/product/B008Y2S3UK/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B008Y2S3UK&linkCode=as2&tag=tdspvv-21&linkId=e98c168e38a0d10681dddd0d14b7f868" imageanchor="1" ><img border="0" src="https://images-na.ssl-images-amazon.com/images/I/814vikWlYjL._SL1500_.jpg" width="320" height="320" data-original-width="800" data-original-height="799"  alt="Vargo Titanium"/></a>
+<a href="https://www.amazon.es/gp/product/B008Y2S3UK/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B008Y2S3UK&linkCode=as2&tag=tdspvv-21&linkId=e98c168e38a0d10681dddd0d14b7f868" imageanchor="1" ><img border="0" src="{{ '/assets/img/posts/can_vargo.jpg' | absolute_url }}" width="320" height="320" data-original-width="800" data-original-height="799"  alt="Vargo Titanium"/></a>
 
 <p>La gran ventaja de esta cantimplora es que al ser de titanio es bastante mas ligera que una de acero inoxidable y tiene una gran resistencia.</p>
 
