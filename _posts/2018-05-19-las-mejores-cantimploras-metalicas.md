@@ -2,7 +2,7 @@
 layout: post
 title: Las mejores cantimploras metálicas
 summary: En situaciones de supervivencia encontrar agua es la prioridad número uno, y tener una buena cantimplora es esencial para poder conservarla y tratarla.
-featured-img: bottle
+featured-img: bottle2
 description: En situaciones de supervivencia encontrar agua es la prioridad número uno, y tener una buena cantimplora es esencial para poder conservarla y tratarla
 categories: Material
 tags: agua
