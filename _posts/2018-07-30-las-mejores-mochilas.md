@@ -2,7 +2,7 @@
 layout: post
 title: Las mejores mochilas de supervivencia de 2018
 summary: Sobrevivir en la naturaleza depende de tener las herramientas adecuadas en el momento adecuado, para ello es necesario disponer de una mochila de calidad y resistente donde almacenar todos las herramientas y víveres necesarios.
-featured-img: pedernal
+featured-img: backpack
 description: Sobrevivir en la naturaleza depende de tener las herramientas adecuadas en el momento adecuado, para ello es necesario disponer de una mochila de calidad y resistente donde almacenar todos las herramientas y víveres necesarios.
 categories: Material
 tags: almacenamiento
@@ -58,7 +58,7 @@ Podéis conseguirla <a target="_blank" href="https://www.amazon.es/gp/product/B0
 
 <h2>Mil-Tec Military Army Patrol MOLLE</h2>
 
-<a href="https://www.amazon.es/gp/product/B004LSBYR0/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B004LSBYR0&linkCode=as2&tag=tdspvv-21&linkId=e2d7ff7abf75a265f0bfc33bd50af2fe" imageanchor="1" ><img  src="{{ '/assets/img/posts/back_miltec.jpg' | absolute_url }}" class="product-img" alt="Mil-Tec Military Army Patrol MOLLE" /></a>
+<a href="https://www.amazon.es/gp/product/B004LSBYR0/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B004LSBYR0&linkCode=as2&tag=tdspvv-21&linkId=e2d7ff7abf75a265f0bfc33bd50af2fe" imageanchor="1" ><img  src="{{ '/assets/img/posts/back_miltech.jpg' | absolute_url }}" class="product-img" alt="Mil-Tec Military Army Patrol MOLLE" /></a>
 
 <p>
 Es una gran mochila para llevar todo lo necesario para los viajes al aire libre. Su organización es casi perfecta, ya que todos los elementos se alcanzan fácilmente. Muchas mochilas con más espacio que esta no consiguen esa sensación de espacio.
