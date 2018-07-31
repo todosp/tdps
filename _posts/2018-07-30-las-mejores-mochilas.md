@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Las mejores mochilas de supervivencia de 2018
+title: Las mejores mochilas de supervivencia
 summary: Sobrevivir en la naturaleza depende de tener las herramientas adecuadas en el momento adecuado, para ello es necesario disponer de una mochila de calidad y resistente donde almacenar todos las herramientas y víveres necesarios.
 featured-img: backpack
 description: Sobrevivir en la naturaleza depende de tener las herramientas adecuadas en el momento adecuado, para ello es necesario disponer de una mochila de calidad y resistente donde almacenar todos las herramientas y víveres necesarios.
