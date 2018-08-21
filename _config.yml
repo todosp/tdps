@@ -6,7 +6,7 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://www.todosupervivencia.es" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: essupervivencia # replace with your_twitter_username or comment to remove link from footer
 # github_username:  my_blogg # replace with your_github_username or comment to remove link from footer
-instagram_username: es_supervivencia # replace with your_instagram_username or comment to remove link from footer
+instagram_username: todo_supervivencia # replace with your_instagram_username or comment to remove link from footer
 facebook_username: Supervivencia-376257366193415
 social:
   name: Todo Supervivencia
