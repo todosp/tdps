@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Diferencia entre bushcraft y supervivencia
-summary: Para todos aquellos que no han recibido un entrenamiento práctico en habilidades de supervivencia, el estudio de un manual de supervivencia de calidad es la mejor opción.
+summary: En ocasiones se utiliza el término bushcraft y supervivencia indistintamente. Pero realmente son términos diferente, aunque tienen técnicas y conocimiento en común.
 featured-img: campfire
-description: Para todos aquellos que no han recibido un entrenamiento práctico en habilidades de supervivencia, el estudio de un manual de supervivencia de calidad es la mejor opción. Si estás buscando una guía para dar los primeros pasos, haz click para leer más
-categories: Tecnicas
-tags: supervivencia
+description: En ocasiones se utiliza el término bushcraft y supervivencia indistintamente. Pero realmente son términos diferente, aunque tienen técnicas y conocimiento en común. Veamos las diferencias y similitudes.
+categories: Tecnica
+tags: supervivencia bushcraft
 comments: true
 ---
 
