@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Los mejores pedernales para hacer fuegos
+title: Los mejores pedernales para hacer fuego
 summary: En la naturaleza el fuego es tu mejor amigo. Puedes hacer que el agua y los alimentos sean seguros para consumir, permite hacer señales de ayuda y proporcionar calor.
  Pero las condiciones frías, húmedas y ventosas que pueden causar hipotermia también pueden obstaculizar la construcción de un fuego. Es por eso que se necesita un pedernal o cualquier otra herramienta de calidad para hacer fuego, como plan B en caso de que los mecheros o cerillas fallen. A continuación os dejamos una selección de los mejores pedernales del mercado
 featured-img: pedernal

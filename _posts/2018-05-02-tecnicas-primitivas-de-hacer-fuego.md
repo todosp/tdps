@@ -15,7 +15,7 @@ redirect_from:
 
 <p>En situaciones de supervivencia ser capaz de hacer un fuego, puede significar la diferencia entre la vida y la muerte. Pero ¿que pasa si no tenemos ninguna de nuestras herramientas para hacer fuego? Tendremos que usar nuestras habilidades primitivas para hacerlo. Es bueno practicarlas y estar preparado si alguna vez tenemos que hacer uso de estas técnicas.</p>
 
-<p>En este artículo vamos a mostraros varios métodos primitivos para realizar fuego, para que decidáis cual es el mejor.</p>
+<p>En este artículo vamos a mostraros varios métodos primitivos para realizar fuego, para que decidáis cual es el mejor.</p> 
 
 <h2>Taladro de mano</h2>
 
