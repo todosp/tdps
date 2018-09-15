@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Como hacer un atlatl primitivo
+featured-img: atlatl6
 summary: En situaciones de supervivencia ser capaz de crear un arma para cazar puede suponer una gran ventaja. El atlat es un arma muy pontente que puede ser de gran ayuda para cazar grandes presas.
 description: En situaciones de supervivencia ser capaz de crear un arma para cazar puede suponer una gran ventaja. El atlat es un arma muy pontente que puede ser de gran ayuda para cazar grandes presas.
 categories: Tecnica
