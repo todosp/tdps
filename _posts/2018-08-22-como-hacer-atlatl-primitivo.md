@@ -1,11 +1,10 @@
 ---
 layout: post
 title: Como hacer un atlatl primitivo
-summary: En situaciones de supervivencia ser capaz de hacer fuego es imprescindible. ¿Pero que pasa si no tenemos ningúna herramienta para hacerlo? Aquí te enseñamos las principales técnicas primitivas
-featured-img: atlatl6
-description: En situaciones de supervivencia ser capaz de hacer fuego es imprescindible. ¿Pero que pasa si no tenemos ningúna herramienta para hacerlo? Aquí te enseñamos las principales técnicas primitivas
+summary: En situaciones de supervivencia ser capaz de crear un arma para cazar puede suponer una gran ventaja. El atlat es un arma muy pontente que puede ser de gran ayuda para cazar grandes presas.
+description: En situaciones de supervivencia ser capaz de crear un arma para cazar puede suponer una gran ventaja. El atlat es un arma muy pontente que puede ser de gran ayuda para cazar grandes presas.
 categories: Tecnica
-tags: fuego
+tags: arma
 comments: true
 ---
 
