@@ -9,13 +9,13 @@ tags: libros
 comments: true
 ---
 
-<p>Para todos aquellos que no han recibido un entrenamiento práctico en habilidades de supervivencia, el estudio de un manual de supervivencia de calidad es la mejor opción. Si estás buscando una guía para dar los primeros pasos, aquí os dejamos una selección de nuestros títulos favoritos traducidos al español.</p>
+<p>Para todos aquellos que no han recibido un entrenamiento práctico en habilidades de supervivencia, el estudio de un manual de supervivencia de calidad es la mejor opción. Si estás buscando una guía de supervivencia para dar los primeros pasos y aprender de los mejores sin salir de casa, aquí os dejamos una selección de nuestros títulos favoritos traducidos al español.</p>
 
 <h2>37ºc: Como Salvar Tu Culo</h2>
 
 <a href="https://www.amazon.es/gp/product/8498290015/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=8498290015&linkCode=as2&tag=tdspvv-21&linkId=484d34a1d311d90a584d8117f4025865" imageanchor="1" ><img border="0" src="https://images-na.ssl-images-amazon.com/images/I/61wiB1BD68L._SX375_BO1,204,203,200_.jpg" width="242" height="320" data-original-width="377" data-original-height="499" alt="37 como salvar tu culo"  class="product-img"/></a>
 
-<p>La mayoría de personas conocen a<a href="https://es.wikipedia.org/wiki/Cody_Lundin"> Cody Lundin</a> como el tío que va descalzo en el programa dúo de supervivientes. Cody también tiene una escuela de técnicas de supervivencia donde enseña habilidades indígenas de supervivencia.
+<p>La mayoría de personas conocen a<a href="https://es.wikipedia.org/wiki/Cody_Lundin"> Cody Lundin</a> como el tío que va descalzo en el programa dúo de supervivientes. Cody vive en medio del desierto de arizona en una casa alimentada con energía solar. Además de participar en distintos programas de televisión, tiene una escuela de técnicas de supervivencia donde enseña habilidades indígenas de supervivencia.
 </p>
 <p> 
 En este libro es una de las maneras mas divertidas y entretenidas de aprender sobre la supervivencia en situaciones extremas y técnicas de bushcraft. Se abordan temas como los primeros auxilios básicos, habilidades de higiene (muy interesante) y recomendaciones para seleccionar los diferentes items de nuestro kit de supervivencia. También incluye algunas recetas para cocinar ratas y ratones. El capítulo sobre el agua es excepcional,da muchos datos interesantes y da algunas ideas poco convencionales para purificar el agua y mantenerla fresca. Es muy recomendable para personas principiantes.</p>

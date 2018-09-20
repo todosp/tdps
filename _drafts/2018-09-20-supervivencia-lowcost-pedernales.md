@@ -18,7 +18,11 @@ comments: true
 
 <img src="https://ae01.alicdn.com/kf/HTB1rinnSFXXXXXBaXXXq6xXFXXXi/Camping-senderismo-supervivencia-al-aire-libre-solar-Spark-viento-Fire-Starter-emergencia-fuego-encendido.jpg" class="product-img" alt="Mechero solar">
 
-<a href="http://s.click.aliexpress.com/e/LjRyoeG" target="_parent">AliExpress.com Product - Camping Hiking Survival Outdoor Solar Spark Lighter Windproof Fire Starter Emergency Fire Ignition</a>
+<p>Como su propio propio nombre indica este encendedor solar necesita la luz del sol para funcionar. Su funcionamiento es muy simple. Primero tenemos que colocar la yesca en</p>
+
+<p>
+Podéis conseguirlo <a href="http://s.click.aliexpress.com/e/LjRyoeG" target="_parent">aquí</a>
+</p>
 
 <h2>Pedernal con depósito</h2>
 
@@ -27,6 +31,8 @@ comments: true
 <a href="http://s.click.aliexpress.com/e/clNcRZ3i" target="_parent">AliExpress.com Product - Portable Bottle Shaped Survival Tool Flint Fire Starter Matches Lighter Kit for Outdoor NO OIL</a>
 
 <h2>Pedernal con bloque de magnesio</h2>
+
+https://www.gearbest.com/fire-starter/pp_009647784778.html?wid=1433363&lkid=15764114
 
 
 <h2>Pedernal clásico</h2>
