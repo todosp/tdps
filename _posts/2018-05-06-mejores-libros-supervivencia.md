@@ -31,7 +31,7 @@ En este libro es una de las maneras mas divertidas y entretenidas de aprender so
 
 <p>Podéis conseguirlo <a target="_blank" href="https://www.amazon.es/gp/product/8499106188/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=8499106188&linkCode=as2&tag=tdspvv-21&linkId=dc3252ce8b55133d5846cb0c6ce252be">aquí</a><img src="//ir-es.amazon-adsystem.com/e/ir?t=tdspvv-21&l=am2&o=30&a=8499106188" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></p>
 
-<h2>Técnicas de supervivencia de las fuerzas especiales</h2>
+<h2>Técnicas de supervivencia de las fuerzas especiales</h2> 
 
 <a href="https://www.amazon.es/gp/product/8499104959/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=8499104959&linkCode=as2&tag=tdspvv-21&linkId=ab77c7dd7b62bba3f63586c1ca190de2" imageanchor="1" ><img border="0" src="https://images-na.ssl-images-amazon.com/images/I/51EYKvMxbKL._SX378_BO1,204,203,200_.jpg" width="244" height="320" data-original-width="380" data-original-height="499" alt="Tecnicas de supervivencia de las fuerzas especiales"  class="product-img" /></a>
 
