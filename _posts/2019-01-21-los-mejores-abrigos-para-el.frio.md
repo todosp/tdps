@@ -2,7 +2,7 @@
 layout: post
 title: Los mejores abrigos para combatir el frio
 featured-img: chaquetas
-summary: Ser un superviviente o un entusiasta de las actividades al aire libre puede ser divertido y emocionante. Sin embargo puede ser frustrante si llevas el equipamento necesario. Por ello una chaqueta de supervivencia es un elemento imprescindible para mantenernos aislados y secos con tiempo desfavorable.
+summary: Las actividades al aire libre puede ser divertidas y emocionantes. Sin embargo, puede ser frustrante si llevas el equipamento necesario. Por ello una chaqueta de supervivencia es un elemento imprescindible para mantenernos aislados y secos con tiempo desfavorable.
 categories: Material
 tags: abrigo
 comments: true
