@@ -40,3 +40,4 @@ Podrás comprobar que según donde leas sobre estos conceptos dirán una cosa di
 <p>En cuanto a las técnicas, es obio que en ambos casos es esencial aprender a orientarse, encender un fuego, construir un refugio, buscar agua potable, saber que plantas y frutos son comestibles y cazar y pescar. La diferencia es básicamente  como y por qué</p>
 
 <p>Espero que con este post os hayan quedado mas claras las similitudes y diferencias entre el bushcraft y la supervivencia. </p>
+
