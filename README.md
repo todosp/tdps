@@ -128,3 +128,21 @@ To add a custom directory to your theme-gem, please edit the regexp in `jekyll-s
 ## License
 
 The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+
+
+## Run serve
+
+bundle exec jekyll serve
+
+## Images size
+
+original 1920 x 1280
+_lg 1999 x 1333
+_md 991 x 661
+_placehold 230 x 153
+_sm 767 x 511
+_thumb 535 x 357
+_thumb@2x 1070 x 713
+_xs 573 x 383
+
+https://tinypng.com/ to compress images

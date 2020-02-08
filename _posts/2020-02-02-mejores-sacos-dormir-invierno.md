@@ -3,6 +3,7 @@ layout: post
 title: Los mejores sacos de dormir para el invierno
 featured-img: sleeping-bag
 summary: Los atributos más importantes de un saco de dormir para acampar en invierno son un gran aislamiento, comprensibilidad, bajo peso y amplio espacio interior. El coste también es un factor importante.
+description: Los atributos más importantes de un saco de dormir para acampar en invierno son un gran aislamiento, comprensibilidad, bajo peso y amplio espacio interior. El coste también es un factor importante.
 categories: Material
 tags: abrigo
 comments: true
