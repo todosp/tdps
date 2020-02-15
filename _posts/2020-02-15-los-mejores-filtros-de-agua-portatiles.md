@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Los mejores filtros de agua portátiles para disfrutar de agua fresca en la naturaleza
+title: Los mejores filtros de agua portátiles
 summary: ¿Estás buscando un purificador de agua portátil? ¿Cuál es el mejor y es más duradero en 2020? A continuación encontrará una comparación de pajillas de filtro personal, botellas y estación de filtración para campamentos de marcha.
 featured-img: water-filter
 description: ¿Estás buscando un purificador de agua portátil? ¿Cuál es el mejor y es más duradero en 2020? A continuación encontrará una comparación de pajillas de filtro personal, botellas y estación de filtración para campamentos de marcha.
@@ -62,7 +62,7 @@ comments: true
 
 <p>La pajita LifeStraw tiene como objetivo protegerte de cualquier bacteria, para que pueda olvidarse de los microorganismos desagradables. Pero no filtra productos químicos, sal, virus, metales pesados o sabores. Algunas personas incluso la han utilizado para purificar aguas aguas residuales de las ciudades.</p>
 
-<p>Podéis conseguirlo <a target="_blank" href="https://www.amazon.es/gp/product/B006QF3TW4/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B006QF3TW4&linkCode=as2&tag=tdspvv-21&linkId=358f4d65be2db6648003f66e929f001b">aqui</a><img src="//ir-es.amazon-adsystem.com/e/ir?t=tdspvv-21&l=am2&o=30&a=B006QF3TW4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></p>
+<p>Podéis conseguirlo <a target="_blank" href="https://www.amazon.es/gp/product/B006QF3TW4/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B006QF3TW4&linkCode=as2&tag=tdspvv-21&linkId=358f4d65be2db6648003f66e929f001b">aqui</a><img src="//ir-es.amazon-adsystem.com/e/ir?t=tdspvv-21&l=am2&o=30&a=B006QF3TW4" width="1" height="1" border="0" alt="link" style="border:none !important; margin:0px !important;" /></p>
 
 
 <h2  style="font-size: 1.8rem">Filtro Survivor</h2>
@@ -75,7 +75,7 @@ comments: true
 
 <p>Este es el filtro de bolsillo más compacto y conveniente de todos los presentados, y el diseño militar contribuye a esto, ya que es el modelo ideal para fanáticos de quedarse en el barro mientras cazan o pescan, debido a su construcción robusta y el sello completo.</p>
 
-<p>Podéis conseguirlo <a target="_blank" href="https://www.amazon.es/gp/product/B00LA97I8M/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B00LA97I8M&linkCode=as2&tag=tdspvv-21&linkId=e30e4103b3ff2b14a3902b6524a5a777">aqui</a><img src="//ir-es.amazon-adsystem.com/e/ir?t=tdspvv-21&l=am2&o=30&a=B00LA97I8M" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></p>
+<p>Podéis conseguirlo <a target="_blank" href="https://www.amazon.es/gp/product/B00LA97I8M/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B00LA97I8M&linkCode=as2&tag=tdspvv-21&linkId=e30e4103b3ff2b14a3902b6524a5a777">aqui</a><img src="//ir-es.amazon-adsystem.com/e/ir?t=tdspvv-21&l=am2&o=30&a=B00LA97I8M" width="1" height="1" border="0" alt="link" style="border:none !important; margin:0px !important;" /></p>
 
 
 <h1>Las mejores botellas con filtro</h1>
@@ -88,7 +88,7 @@ comments: true
 
 <p>LifeStraw Go no te obligará a detenerte regularmente y buscar un arroyo, ya que simpleente tendrás que verter el agua en la botella. Esto se convierte en una ventaja competitiva para aquellos que conquistan picos nevados, ya que este dispositivo derretirá la nieve fácilmente. Pero la mayor ventaja es que no necesitas llevar por separado una botella y un filtro.</p>
 
-<p>Podéis conseguirlo <a target="_blank" href="https://www.amazon.es/gp/product/B00H90PFOK/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B00H90PFOK&linkCode=as2&tag=tdspvv-21&linkId=696c00440139a96e776eb56a1bcabe47">aqui</a><img src="//ir-es.amazon-adsystem.com/e/ir?t=tdspvv-21&l=am2&o=30&a=B00H90PFOK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></p>
+<p>Podéis conseguirlo <a target="_blank" href="https://www.amazon.es/gp/product/B00H90PFOK/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B00H90PFOK&linkCode=as2&tag=tdspvv-21&linkId=696c00440139a96e776eb56a1bcabe47">aqui</a><img src="//ir-es.amazon-adsystem.com/e/ir?t=tdspvv-21&l=am2&o=30&a=B00H90PFOK" width="1" height="1" border="0" alt="link" style="border:none !important; margin:0px !important;" /></p>
 
 <h1>El purificador de agua portátil mas productivo</h1>
 
@@ -102,7 +102,7 @@ comments: true
 
 <p>El detalle más notable sobre el filtro es que el dispositivo puede limpiar hasta 2 litros de agua por minuto.</p>
 
-<p>Podéis conseguirlo <a target="_blank" href="https://www.amazon.es/gp/product/B000RZHU9C/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B000RZHU9C&linkCode=as2&tag=tdspvv-21&linkId=6d7f8de5380ddb0b579c5403bd757d6a">aqui</a><img src="//ir-es.amazon-adsystem.com/e/ir?t=tdspvv-21&l=am2&o=30&a=B000RZHU9C" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></p>
+<p>Podéis conseguirlo <a target="_blank" href="https://www.amazon.es/gp/product/B000RZHU9C/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B000RZHU9C&linkCode=as2&tag=tdspvv-21&linkId=6d7f8de5380ddb0b579c5403bd757d6a">aqui</a><img src="//ir-es.amazon-adsystem.com/e/ir?t=tdspvv-21&l=am2&o=30&a=B000RZHU9C" width="1" height="1" border="0" alt="link" style="border:none !important; margin:0px !important;" /></p>
 
 <h2  style="font-size: 1.8rem">Pastillas Micropur purificadoras</h2>
 
@@ -111,7 +111,7 @@ comments: true
 <p>Estas tabletas desinfectantes funcionan de manera clara: 1 tableta es capaz de purificar eficazmente un litro de agua de todos los microorganismos y desinfectarlo en 30 minutos. Esta es una gran solución si necesitas limpiar el agua para lavarla y, por lo tanto no es necesario bombear agua. No se recomienda usar agua purificada de manera continua, ya que los elementos químicos afectarán negativamenta a la microflora de tu cuerpo.</p>
 
 
-<p>Podéis conseguirlo <a target="_blank" href="https://www.amazon.es/gp/product/B006QJN2OA/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B006QJN2OA&linkCode=as2&tag=tdspvv-21&linkId=267192df659f0dae023c3e504a00a7ca">aqui</a><img src="//ir-es.amazon-adsystem.com/e/ir?t=tdspvv-21&l=am2&o=30&a=B006QJN2OA" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></p>
+<p>Podéis conseguirlo <a target="_blank" href="https://www.amazon.es/gp/product/B006QJN2OA/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B006QJN2OA&linkCode=as2&tag=tdspvv-21&linkId=267192df659f0dae023c3e504a00a7ca">aqui</a><img src="//ir-es.amazon-adsystem.com/e/ir?t=tdspvv-21&l=am2&o=30&a=B006QJN2OA" width="1" height="1" border="0" alt="link" style="border:none !important; margin:0px !important;" /></p>
 
 <h1>Las mejores estaciones de filtrado de campamento</h1>
 
@@ -123,7 +123,7 @@ comments: true
 
 <p>El filtro actúa utilizando una tecnología similar a los filtros de agua portátiles y puede filtrar 2 litros por minutos. El dispositivo esta colgado de un mango especial. El diseño es muy robusto y es una gran opción para tener agua en el campamento.</p>
 
-<p>Podéis conseguirlo <a target="_blank" href="https://www.amazon.es/gp/product/B00XWAP2W6/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B00XWAP2W6&linkCode=as2&tag=tdspvv-21&linkId=ec0c9ceb2ecc0b8927a38253c15f9366">aqui</a><img src="//ir-es.amazon-adsystem.com/e/ir?t=tdspvv-21&l=am2&o=30&a=B00XWAP2W6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></p>
+<p>Podéis conseguirlo <a target="_blank" href="https://www.amazon.es/gp/product/B00XWAP2W6/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B00XWAP2W6&linkCode=as2&tag=tdspvv-21&linkId=ec0c9ceb2ecc0b8927a38253c15f9366">aqui</a><img src="//ir-es.amazon-adsystem.com/e/ir?t=tdspvv-21&l=am2&o=30&a=B00XWAP2W6" width="1" height="1" border="0" alt="link" style="border:none !important; margin:0px !important;" /></p>
 
 <h2  style="font-size: 1.8rem">Filtro Sawyer Mini</h2>
 
@@ -134,6 +134,6 @@ comments: true
 <p>El sistema de filtración se suminisrea no solo con la punta mecánica, sino también con una bolsa que permite beber literalmente desde cualquier lugar. La punta en sí es portátil, cabe en la palma de la mano y viene con un tubo suplementario para llenar el tanqui. Sin embargo, el producto no es adecuado para cocinar al aire libre. </p>
 
 
-<p>Podéis conseguirlo <a target="_blank" href="https://www.amazon.es/gp/product/B00FA2RLX2/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B00FA2RLX2&linkCode=as2&tag=tdspvv-21&linkId=6abde7b6bb1eba5d270db9c62c165716">aqui</a><img src="//ir-es.amazon-adsystem.com/e/ir?t=tdspvv-21&l=am2&o=30&a=B00FA2RLX2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></p>
+<p>Podéis conseguirlo <a target="_blank" href="https://www.amazon.es/gp/product/B00FA2RLX2/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B00FA2RLX2&linkCode=as2&tag=tdspvv-21&linkId=6abde7b6bb1eba5d270db9c62c165716">aqui</a><img src="//ir-es.amazon-adsystem.com/e/ir?t=tdspvv-21&l=am2&o=30&a=B00FA2RLX2" width="1" height="1" border="0" alt="link" style="border:none !important; margin:0px !important;" /></p>
 
 
