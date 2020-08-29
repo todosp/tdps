@@ -19,7 +19,7 @@ comments: true
 
 <p>El  único pequeño invoveninete es que después de mucho uso el material comienza a suavizarse y absever la humedad. En general un buen zapato a un precio inmejorable.</p>
 
-<p>Podéis conseguirlo <a target="_blank" href="https://www.amazon.es/gp/product/B074KQF9TP/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B074KQF9TP&linkCode=as2&tag=tdspvv-21&linkId=b272441bf6f2fb8b9f7d8ea5afdca7b9">aqui</a><img src="//ir-es.amazon-adsystem.com/e/ir?t=tdspvv-21&l=am2&o=30&a=B074KQF9TP" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></p>
+<p>Podéis conseguirlo <a target="_blank" href="https://www.amazon.es/gp/product/B01NBT5M84/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B01NBT5M84&linkCode=as2&tag=tdspvv-21&linkId=c0f1f58552439414358491702d6f0b8d">aquí</a><img src="//ir-es.amazon-adsystem.com/e/ir?t=tdspvv-21&l=am2&o=30&a=B01NBT5M84" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></p>
 
 
 <h2>Vasque Juxt</h2>

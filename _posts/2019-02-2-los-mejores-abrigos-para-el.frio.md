@@ -61,7 +61,7 @@ comments: true
 <p>En la parte inferior de la chqueta, hay bolsillos para las manos con cremalleras para guardar cualquier cosa que necesites.</p>
 
 <p>A pesar de ser gruesa y aislante, se trata de una chaqueta liviana, por lo que es perfecta para llevarla allí donde vayas.</p>
-<p>Podéis conseguirla <a target="_blank" href="https://www.amazon.es/gp/product/B00V9XMEYW/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B00V9XMEYW&linkCode=as2&tag=tdspvv-21&linkId=78a3cb5dadcae9e87b3262c462d742f0">aquí</a><img src="//ir-es.amazon-adsystem.com/e/ir?t=tdspvv-21&l=am2&o=30&a=B00V9XMEYW" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></p>
+<p>Podéis conseguirla <a target="_blank" href="https://www.amazon.es/gp/product/B078H7WNBL/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B078H7WNBL&linkCode=as2&tag=tdspvv-21&linkId=9dc4f2059627b358e39a4c0fd1a2b3ca">aquí</a><img src="//ir-es.amazon-adsystem.com/e/ir?t=tdspvv-21&l=am2&o=30&a=B00V9XMEYW" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></p>
 
 <h2>Arctix Tundra</h2>
 
