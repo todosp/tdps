@@ -5,7 +5,7 @@ summary: En situaciones de supervivencia encontrar agua es la prioridad número 
 featured-img: bottle
 description: En situaciones de supervivencia encontrar agua es la prioridad número uno, y tener una buena cantimplora es esencial para poder conservarla y tratarla
 categories: Material
-tags: agua
+tags: Agua
 comments: true
 redirect_from:
   - 2017/08/las-mejores-cantimploras-de-plastico.html

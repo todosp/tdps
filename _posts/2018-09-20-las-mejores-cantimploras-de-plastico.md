@@ -5,7 +5,7 @@ featured-img: bottle
 summary: El agua es la prioridad número uno en situaciones de supervivencia ya que no podremos sobrevivir más de 3 días sin ellas, por eso en cualquier kit de supervivencia que se precie es un elemento indispensable.
 description: Las mejores cantimploras - El agua es la prioridad número uno en situaciones de supervivencia ya que no podremos sobrevivir más de 3 días sin ellas, por eso en cualquier kit de supervivencia que se precie es un elemento indispensable.
 categories: Material
-tags: agua
+tags: Agua
 comments: true
 ---
 
