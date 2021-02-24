@@ -61,7 +61,6 @@ gulp.task('browser-sync', ['sass', 'js', 'jekyll-build'], function() {
 
 // Complie SCSS to CSS & Prefix
 gulp.task('sass', function() {
-  console.log()
   return gulp.src(src.css)
     .pipe(sourcemaps.init())
     .pipe(sass({
