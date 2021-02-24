@@ -4,8 +4,8 @@ title: Los mejores guantes para el frío
 summary: Desde aventuras en climas fríos hasta el uso diario y el trabajo, analizamos los mejores guantes para mantener calientes las manos en el frío
 featured-img: gloves
 description: Desde aventuras en climas fríos hasta el uso diario y el trabajo, analizamos una variada selección de guantes y manoplas para mantener las manos calientes en climas fríos
-categories: abrigo
-tags: Agua
+categories: Material
+tags: Abrigo
 comments: true
 ---
 

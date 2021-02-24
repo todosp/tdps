@@ -5,7 +5,7 @@ summary: Sobrevivir en la naturaleza depende de tener las herramientas adecuadas
 featured-img: backpack
 description: Sobrevivir en la naturaleza depende de tener las herramientas adecuadas en el momento adecuado, para ello es necesario disponer de una mochila de calidad y resistente donde almacenar todos las herramientas y víveres necesarios.
 categories: Material
-tags: almacenamiento
+tags: Almacenamiento
 comments: true
 ---
 

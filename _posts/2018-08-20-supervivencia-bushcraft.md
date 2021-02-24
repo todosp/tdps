@@ -5,7 +5,7 @@ summary: En ocasiones se utiliza el término bushcraft y supervivencia indistint
 featured-img: campfire
 description: En ocasiones se utiliza el término bushcraft y supervivencia indistintamente. Pero realmente son términos diferente, aunque tienen técnicas y conocimiento en común. Veamos las diferencias y similitudes.
 categories: Tecnica
-tags: supervivencia bushcraft
+tags: Supervivencia Bushcraft
 comments: true
 ---
 
