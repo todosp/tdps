@@ -76,24 +76,11 @@
   .tags{
     position: relative;
     top: 6px;
-    .tag {
-     padding: 0px 10px;
-     text-transform: uppercase;
-     border: 2px solid white;
-     border-radius: 100px;
-     font-size: 1rem;
-     a{
-       border-bottom: none;
-       color: white;
-     }
-    } 
+   
   }
   
   @media (max-width: 426px) { 
     font-size: 0.8em;
-    .tag {
-       font-size: 0.8em !important;
-    }
   }
 }
 
