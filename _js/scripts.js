@@ -2,7 +2,7 @@
 
 // Jquery & Velocity JS included in GULP
 $( document ).ready( function() {
-
+    $(".header__links").addClass('hidden')
     toggleMobileNav();
     ShowHideNav();
     formCheck();
