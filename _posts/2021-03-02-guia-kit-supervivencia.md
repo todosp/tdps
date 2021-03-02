@@ -16,10 +16,55 @@ Nada puede brindarte más tranquilidad que saber que estarás preparado en caso 
 Los mejores kits de supervivencia se pueden usar en una variedad de situaciones, sin embargo, el objetivo de usar uno de estos kits es ayudarte a sobrevivir, ya sea que estés en un viaje por el campo o cuando ocurra un desastre natural. Por supuesto, hay una gran cantidad de kits en el mercado para elegir, pero si nunca has usado uno antes, es posible que no sepas cómo encontrar un kit que contenga todas las herramientas y suministros que necesitas en el momento en que lo necesites.
 </p>
 
+<div id="toc_container">
+<p class="toc_title">Contenido</p>
+<ul class="toc_list">
+    <li><a href="#header1">1 Kits recomendados</a>
+        <ul>
+            <li><a href="#header11">1.1 Kit de supervivencia 18 en 1</a></li>
+            <li><a href="#header12">1.2 Kit de supervivencia 21 en 1</a></li>
+            <li><a href="#header13">1.3 Kit de primeros auxilios</a></li>
+            <li><a href="#header14">1.4 Comida de supervivencia</a></li>
+        </ul>
+    </li>
+    <li><a href="#header2">2 Guía de compra</a>
+        <ul>
+            <li><a href="#header21">2.1 Beneficios de un kit de supervivencia</a></li>
+            <li><a href="#header22">2.2 Otras características importantes</a>
+                <ul>
+                    <li><a href="#header221">2.2.1 Tamaño del kit</a></li>
+                    <li><a href="#header222">2.2.2 Tipo</a></li>
+                    <li><a href="#header223">2.2.3 Contenido</a></li>
+                    <li><a href="#header224">2.2.4 Luz</a></li>
+                    <li><a href="#header225">2.2.5 Refugio</a></li>
+                    <li><a href="#header226">2.2.6 Botiquín de primeros auxilios</a></li>
+                    <li><a href="#header227">2.2.7 Productos de higiene</a></li>
+                    <li><a href="#header228">2.2.8 Herramientas</a></li>
+                </ul>
+            </li>
+        </ul>
+    </li>
+    <li><a href="#header3">3 Estar preparado</a>
+    </li>
+    <li><a href="#header4">4 Preguntas frecuentes</a>
+        <ul>
+            <li><a href="#header41">4.1 ¿Que debo incluir en mi kit de supervivencia?</a></li>
+            <li><a href="#header42">4.2 ¿Cuales son las mejores comidas de supervivencia?</a></li>
+            <li><a href="#header43">4.3 ¿Cuales son los 10 elementos imprescindibles?</a></li>
+            <li><a href="#header44">4.4 ¿Ques es lo primero que hay que hacer en una situación de supervivencia?</a></li>
+            <li><a href="#header45">4.5 ¿Ques debe haber en una bolsa de supervivencia para 72 horas?</a></li>
+        </ul>
+    </li>
+    <li>
+      <a href="#header5">5 Conclusión</a>
+    </li>
+</ul>
+</div>
 
-<h1>kits recomendados</h1>
 
-<h3>Kit de supervivencia 18 en 1</h3>
+<h1 id="header1">kits recomendados</h1>
+
+<h3 id="header11">Kit de supervivencia 18 en 1</h3>
 
 <a href="https://www.amazon.es/gp/product/B07D3585RN/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B07D3585RN&linkCode=as2&tag=tdspvv-21&linkId=982e18369b9e1a550f0aedd0c41c2098" target="_blank" imageanchor="1" ><img border="0" src="https://images-na.ssl-images-amazon.com/images/I/81SsHUmy9YL._AC_SX679_.jpg" width="228" height="320" data-original-width="357"  class="product-img"  style="height: 300px;width:402px" data-original-height="500" alt="Kit de supervivencia 18 en 1"/></a>
 
@@ -27,7 +72,7 @@ Los mejores kits de supervivencia se pueden usar en una variedad de situaciones,
 
 <p>Puedes conseguirlo <a target="_blank" href="https://www.amazon.es/gp/product/B07D3585RN/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B07D3585RN&linkCode=as2&tag=tdspvv-21&linkId=982e18369b9e1a550f0aedd0c41c2098">aquí</a></p>
 
-<h3>Kit de supervivencia 24 en 1</h3>
+<h3 id="header12">Kit de supervivencia 24 en 1</h3>
 
 <a href="https://www.amazon.es/gp/product/B08FB6TD3H/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B08FB6TD3H&linkCode=as2&tag=tdspvv-21&linkId=e8e9a6d1dcb40fec7d6dcef934130ade" target="_blank" imageanchor="1" ><img border="0" src="https://images-na.ssl-images-amazon.com/images/I/71HDr67DqEL._AC_SX425_.jpg" width="228" height="320" data-original-width="357"  class="product-img"  style="height: 300px;width:402px" data-original-height="500" alt="Kit de supervivencia 24 en 1"/></a>
 
@@ -35,7 +80,7 @@ Los mejores kits de supervivencia se pueden usar en una variedad de situaciones,
 
 <p>Puedes conseguirlo <a target="_blank" href="https://www.amazon.es/gp/product/B08FB6TD3H/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B08FB6TD3H&linkCode=as2&tag=tdspvv-21&linkId=e8e9a6d1dcb40fec7d6dcef934130ade">aquí</a></p>
 
-<h3>Kit de primeros auxilios</h3>
+<h3 id="header13">Kit de primeros auxilios</h3>
 
 <a href="https://www.amazon.es/gp/product/B07R3RMFC4/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B07R3RMFC4&linkCode=as2&tag=tdspvv-21&linkId=031700893f81b0822e5fddfc904b06d5" target="_blank" imageanchor="1" ><img border="0" src="https://images-na.ssl-images-amazon.com/images/I/91%2BiuYMKRSL._AC_SX425_.jpg" width="228" height="320" data-original-width="357"  class="product-img"  style="height: 300px;width:402px" data-original-height="500" alt="Kit de primeros auxilios"/></a>
 
@@ -44,7 +89,7 @@ Los mejores kits de supervivencia se pueden usar en una variedad de situaciones,
 <p>Puedes conseguirlo <a target="_blank" href="https://www.amazon.es/gp/product/B07R3RMFC4/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B07R3RMFC4&linkCode=as2&tag=tdspvv-21&linkId=031700893f81b0822e5fddfc904b06d5">aquí</a></p>
 
 
-<h3>comidas de supervivencia</h3>
+<h3 id="header14">comidas de supervivencia</h3>
 
 <p>En este apartado encontraremos alimentos que podremos añadir para completar nuestros kit de supervivencia.</p>
 <p>
@@ -65,7 +110,7 @@ Los mejores kits de supervivencia se pueden usar en una variedad de situaciones,
     </ul>
 </p>
 
-<h3>Guia de compra para un kit de supervivencia</h3>
+<h3 id="header2">Guía de compra</h3>
 
 <img src="{{site.url}}/assets/img/posts/survival-kit-2.jpg" alt="kit básico" height="80%" />
 
@@ -82,7 +127,7 @@ Sin embargo, hay mucho que considerar antes de comprar nuestro kit de superviven
 A continuación, repasaremos los beneficios de usar uno de estos kits y cómo pueden ayudar en caso de un desastre, además de discutir los tipos de suministros que debes buscar, las herramientas y el tamaño que debe tener el kit, según el número de personas de tu familia o grupo de senderismo.
 </p>
 
-<h3> Beneficios de un kit de supervivencia </h3>
+<h3 id="header21"> Beneficios de un kit de supervivencia </h3>
 <p>
     <ul>
         <li>
@@ -115,13 +160,13 @@ A continuación, repasaremos los beneficios de usar uno de estos kits y cómo pu
     </ul>
 </p>
 
-<h3>Otras características importantes</h3>
+<h3 id="header22">Otras características importantes</h3>
 
 <p>
     Como ya sabes, un kit de supervivencia será una de las piezas de equipo más importantes que puedes llevar en tu próximo viaje de campamento, senderismo o caza, y también debe tener uno a mano en caso de accidente. Ahora, discutiremos que buscar en un kit que pueda brindarte la ayuda que necesita en una emergencia.
 </p>
 
-<h4>Tamaño del kit</h4>
+<h4 id="header221">Tamaño del kit</h4>
 
 <p>
     El tamaño del kit será un factor importante que puede ayudarlo a elegir un modelo que sea lo suficientemente grande para tratar a todos los miembros de su familia o las personas en su grupo de excursionismo o campamento. El tamaño básicamente te dice cuántos suministros contiene, lo que le permite calcular a cuántas personas puede ayudar o cuántos días puede brindar tratamiento. Además de los suministros médicos, también habrá algunas herramientas básicas pero importantes que darán cuenta de algunas de las piezas de un kit de supervivencia estándar.
@@ -148,7 +193,7 @@ A continuación, repasaremos los beneficios de usar uno de estos kits y cómo pu
     La mayoría de los fabricantes serán muy transparentes en términos de cuántas piezas vienen en un kit, cuánto pesa y el tipo de suministros que incluye.
 </p>
 
-<h3>Tipo</h3>
+<h3 id="header222">Tipo</h3>
 
 <p>
     También es importante saber exactamente para qué planeas usar el kit para poder asegurarte de tener todo el equipo adecuado que necesitas cuando ocurra un desastre. Cada tipo de evento requerirá diferentes tipos de suministros. Por ejemplo, si estás encerrado en un refugio antiaéreo en tu casa o en un sótano, entonces no tendrá mucha utilidad  un pedernal. Sin embargo, definitivamente necesitarás uno si vas de excursión.
@@ -158,7 +203,7 @@ A continuación, repasaremos los beneficios de usar uno de estos kits y cómo pu
     En casa, tendrás más acceso a alimentos y agua, mientras que si planeas comprar un kit para guardar en su automóvil, es posible que desees uno que venga con alimentos deshidratados y tabletas de purificación de agua, ya que es posible que no tengas acceso a alimentos o agua potable fresca.
 </p>
 
-<h3>Contenido</h3>
+<h3 id="header223">Contenido</h3>
 <p>
     El contenido del kit será muy importante para tu supervivencia si estás perdido en el campo o atrapado en casa sin energía.
 </p>
@@ -166,7 +211,7 @@ A continuación, repasaremos los beneficios de usar uno de estos kits y cómo pu
     En la mayoría de las situaciones, siempre es mejor tener un kit que venga con algún tipo de sistema de purificación de agua, ya sea un filtro o tabletas de purificación. Esto será especialmente importante en un viaje de senderismo.
 </p>
 
-<h3>Luz</h3>
+<h3 id="header224">Luz</h3>
 
 <p>
     La luz también será vital. Si bien una linterna que funcione con pilas será útil, también debes comprar un kit que venga con algún tipo de luz que funcione con un sistema de manivela o con energía solar.
@@ -175,13 +220,13 @@ A continuación, repasaremos los beneficios de usar uno de estos kits y cómo pu
     Habrá algunos elementos que encontrarás en un kit que solo serán útiles en ciertas circunstancias, sin embargo, hay otros que pueden funcionar para muchos escenarios diferentes, como una luz. Ya sea que estés perdido en el bosque o atrapado en tu casa con un corte de energía, contar con una fuente de luz de emergencia será muy importante.
 </p>
 
-<h3>Refugio</h3>
+<h3 id="header225">Refugio</h3>
 
 <p>
     Un buen kit para uso en exteriores vendrá con algunos artículos que son resistentes a la intemperie y estos artículos serán útiles si necesitas protegerte de las inclemencias del tiempo en condiciones extremas. Estos artículos pueden consistir en una carpa pequeña, una lona de algún tipo o un poncho y pueden usarse para mantenerte seco en caso de una tormenta, tornado o huracán grave.
 </p>
 
-<h3>Botiquín de primeros auxilios</h3>
+<h3 id="header226">Botiquín de primeros auxilios</h3>
 <p>
     En casa y en el bosque, necesitarás un botiquín que viene con suministros de primeros auxilios, como vendas, ungüento antibacteriano, esparadrapo médico, vendajes y cualquier cosa que puedas usar para tratar lesiones leves a graves hasta que seas capaz de conseguir atención médica para la persona lesionada de tu grupo.
 </p>
@@ -189,12 +234,12 @@ A continuación, repasaremos los beneficios de usar uno de estos kits y cómo pu
     Los suministros médicos en un botiquín pueden prevenir infecciones y también pueden detener el sangrado, lo que ayuda a aumentar las posibilidades de supervivencia de una persona lesionada.
 </p>
 
-<h3>Productos de higiene</h3>
+<h3 id="header227">Productos de higiene</h3>
 <p>
     Una higiene adecuada es imprescindible para prevenir infecciones. Cuando compres un kit, asegúrese de que venga con jabón, toallitas con alcohol, desinfectante de manos, bolsas de basura y otros productos de higiene importantes que pueden reducir significativamente las posibilidades de infección.
 </p>
 
-<h3>Herramientas</h3>
+<h3 id="header227">Herramientas</h3>
 
 <p>
     Kits designed more for a bug out bag or backcountry use will come with useful tools that can help you make a shelter, hunt, make repairs, and basically survive on your own, during a disaster or when you’re lost in the woods.
@@ -232,14 +277,14 @@ A continuación, repasaremos los beneficios de usar uno de estos kits y cómo pu
     El contenido de un kit variará de un modelo a otro y puede depender de la calidad del kit y del tamaño.
 </p>
 
-<h2>Estar preparado</h2>
+<h2 id="header3">Estar preparado</h2>
 <p>
     Si nunca has acampado o caminado antes, asegúrese de saber cómo usar correctamente todos los suministros y herramientas que vienen en estos kits. Es importante estar preparado para una emergencia antes de partir. Esto se puede hacer practicando la instalación de un refugio improvisado, aprendiendo a usar correctamente un sistema de filtración de agua y haciendo un fuego con la ayuda de pedernal y acero. Recuerda que estos kits puede ser totalmente inútiles si no sabes cómo utilizar correctamente el contenidos.
 </p>
 
-<h2>Preguntas frecuentes</h2>
+<h2 id="header4">Preguntas frecuentes</h2>
 
-<h3>¿Que debo incluir en mi kit de supervivencia?</h3>
+<h3 id="header41">¿Que debo incluir en mi kit de supervivencia?</h3>
 <p>
     <ul>
     <li>
@@ -279,7 +324,7 @@ A continuación, repasaremos los beneficios de usar uno de estos kits y cómo pu
     </ul>
 </p>
 
-<h3>¿Cuales son las mejores comidas de supervivencia?</h3>
+<h3 id="header42">¿Cuales son las mejores comidas de supervivencia?</h3>
 <p>
     <ul>
         <li>Carne seca</li>
@@ -291,7 +336,7 @@ A continuación, repasaremos los beneficios de usar uno de estos kits y cómo pu
     </ul>
 </p>
 
-<h3>¿Cuáles son los 10 elementos inprescindibles en un kit de supervivencia?</h3>
+<h3 id="header43">¿Cuáles son los 10 elementos imprescindibles?</h3>
 
 <p>
     Esto puede depender de si estás tratando de sobrevivir desde tu casa durante un desastre natural o si está perdido en el bosque. Si estás perdido en la naturaleza, los mejores suministros incluirán:
@@ -311,7 +356,7 @@ A continuación, repasaremos los beneficios de usar uno de estos kits y cómo pu
     </ul>
 </p>
 
-<h3>¿Que es lo primero que hay que hacer en una situación de supervivencia?</h3>
+<h3 id="header44">¿Que es lo primero que hay que hacer en una situación de supervivencia?</h3>
 <p>
     <ul>
         <li>Mantener la calma</li>
@@ -323,7 +368,7 @@ A continuación, repasaremos los beneficios de usar uno de estos kits y cómo pu
     </ul>
 </p>
 
-<h3>¿Que debe haber en una bolsa de supervivencia para 72 horas?</h3>
+<h3 id="header45">¿Que debe haber en una bolsa de supervivencia para 72 horas?</h3>
 
 <p>Para una tener una bolsa que cubra todos los básicos, debe incluir los siguientes suministros:</p>
 <p>
@@ -339,7 +384,7 @@ A continuación, repasaremos los beneficios de usar uno de estos kits y cómo pu
     </ul>
 </p>
 
-<h2>Conclusión</h2>
+<h2 id="header5">Conclusión</h2>
 
 <p>
     Cuando estés comprando el mejor kit de supervivencia, asegúrese de tener en cuenta todos factores incluidos, para que puedas estar seguro de que obtendrás el kit adecuado según el uso y la cantidad de personas en tu familia o en grupo de senderismo o camping. Los modelos incluidos están cargados con suministros y herramientas de alta calidad, por lo que puedes estar seguro de que cada kit tiene lo necesario para ayudarte a superar un desastre natural o cualquier otro tipo de situación de emergencia.
