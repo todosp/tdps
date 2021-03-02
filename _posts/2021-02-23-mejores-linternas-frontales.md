@@ -13,7 +13,30 @@ comments: true
 Si alguna vez ha ido de campamento, de excursión, de mochilero, de escalada, de ciclismo de montaña, de trail running o de casi cualquier otra actividad al aire libre, lo más probable es que haya utilizado una linterna frontal. Si bien esta práctica pieza de tecnología requiere poca presentación (todos conocen el beneficio de la iluminación manos libres), los impresionantes avances en la tecnología de los frontales en los últimos años merecen cierto reconocimiento. La industria está en medio de una guerra de caballos de fuerza, con una superioridad en la salida de luz máxima (lúmenes) y opciones de batería, y nosotros, los usuarios, somos los felices beneficiarios.
 </p>
 
-<h2>Petzl Actik Core</h2>
+
+<div id="toc_container">
+    <p class="toc_title">Contenido</p>
+    <ul class="toc_list">
+        <li><a href="#header1">1 Petzl Actik Core</a></li>
+        <li><a href="#header2">2 Black Diamond Spot</a></li>
+        <li><a href="#header3">3 Petzl Tikkina Headlamp</a></li>
+        <li><a href="#header4">4 BioLite HeadLamp 330</a></li>
+        <li><a href="#header5">5 Fenix HL60R Headlamp</a></li>
+        <li><a href="#header6">6 Nitecore NU25</a></li>
+        <li><a href="#header7">7 Black Diamond ReVolt 350</a></li>
+        <li><a href="#header8">8 Petzl Iko Core</a></li>
+        <li><a href="#header9">9 Coast HL7 Focusing</a></li>
+        <li><a href="#header10">10 Fenix HM50R</a></li>
+        <li><a href="#header11">11 Petzl NAO +</a></li>
+        <li><a href="#header12">12 Black Diamond Sprinter 275</a></li>
+        <li><a href="#header13">13 Black Diamond Storm 400</a></li>
+        <li><a href="#header14">14 Energizer Vision HD</a></li>
+        <li><a href="#header15">15 Petzl e+LITE</a></li>
+    </ul>
+</div>
+
+
+<h2 id="header1">Petzl Actik Core</h2>
 
 <a href="https://www.amazon.es/gp/product/B07T5RLZTX/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B07T5RLZTX&linkCode=as2&tag=tdspvv-21&linkId=225c21ee2113ea9995e964791ca605a0" target="_blank" imageanchor="1" ><img border="0" src="https://images-na.ssl-images-amazon.com/images/I/718Hr8Gt1YL._AC_SX425_.jpg" width="228" height="320" data-original-width="357"  class="product-img"  style="height: 160px;width:402px" data-original-height="500" alt="Petzl Actik Core"/></a>
 
@@ -29,7 +52,7 @@ Los diseños de bateria recargables por USB tienen un uso limitado para período
 
 
 
-<h2>Black Diamond Spot</h2>
+<h2 id="header2">Black Diamond Spot</h2>
 
 <a href="https://www.amazon.es/gp/product/B07MRGZWSG/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B07MRGZWSG&linkCode=as2&tag=tdspvv-21&linkId=a4779a9bcdf0a097248e4e1f3bb29a60" target="_blank" imageanchor="1" ><img border="0" src="https://images-na.ssl-images-amazon.com/images/I/51Ef8oSqtmL._AC_SX425_.jpg" width="228" height="320" data-original-width="357"  class="product-img"  style="height: 92px;width:402px" data-original-height="500" alt="Black Diamond Spot"/></a>
 
@@ -44,7 +67,7 @@ Black Diamond sigue con pilas AAA para el Spot, lo cual es una gran desventaja. 
 <p>Podéis conseguirlo <a target="_blank" href="https://www.amazon.es/gp/product/B07MRGZWSG/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B07MRGZWSG&linkCode=as2&tag=tdspvv-21&linkId=a4779a9bcdf0a097248e4e1f3bb29a60">aquí</a></p>
 
 
-<h2>Petzl Tikkina Headlamp</h2>
+<h2 id="header3">Petzl Tikkina Headlamp</h2>
 
 <a href="https://www.amazon.es/gp/product/B01KYTR76Q/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B01KYTR76Q&linkCode=as2&tag=tdspvv-21&linkId=c10733b584805305de48fabd8f9e51cb" target="_blank" imageanchor="1" ><img border="0" src="https://images-na.ssl-images-amazon.com/images/I/71qCDgRe8PL._AC_SX425_.jpg" width="402" height="160" data-original-width="357"  class="product-img"  style="height: 160px;width:402px" data-original-height="500" alt="Black Diamond Spot"/></a>
 
@@ -60,7 +83,7 @@ Según los estándares actuales, la luz es decente pero no demasiado impresionan
 
 
 
-<h2>BioLite HeadLamp 330</h2>
+<h2 id="header4">BioLite HeadLamp 330</h2>
 
 <a href="https://www.amazon.es/gp/product/B07FMQM414/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B07FMQM414&linkCode=as2&tag=tdspvv-21&linkId=9fae2cdc7a92a348a47e67633b4ea9ef" target="_blank" imageanchor="1" ><img border="0" src="https://images-na.ssl-images-amazon.com/images/I/61btEUA7VTL._AC_SX425_.jpg" width="402" height="160" data-original-width="357"  class="product-img"  style="height: 180px;width:402px" data-original-height="500" alt="BioLite HeadLamp 330"/></a>
 
@@ -75,7 +98,7 @@ Nuestra característica favorita de BioLite es su diseño sin bordes, que integr
 <p>Podéis conseguirlo <a target="_blank" href="https://www.amazon.es/gp/product/B07FMQM414/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B07FMQM414&linkCode=as2&tag=tdspvv-21&linkId=9fae2cdc7a92a348a47e67633b4ea9ef">aquí</a></p>
 
 
-<h2>Fenix HL60R Headlamp</h2>
+<h2 id="header5">Fenix HL60R Headlamp</h2>
 
 <a href="https://www.amazon.es/gp/product/B01BH17MDS/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B01BH17MDS&linkCode=as2&tag=tdspvv-21&linkId=119fb8190b161ff8917221bdd39e23ff" target="_blank" imageanchor="1" ><img border="0" src="https://images-na.ssl-images-amazon.com/images/I/81MMOsMNQZL._AC_SX679_.jpg" width="402" height="160" data-original-width="357"  class="product-img"  style="height: 180px;width:402px" data-original-height="500" alt="Fenix HL60R Headlamp"/></a>
 
@@ -90,7 +113,7 @@ El Fenix ​​HL60R es el frontal más brillante de nuestra lista, pero no est�
 <p>Podéis conseguirlo <a target="_blank" href="https://www.amazon.es/gp/product/B01BH17MDS/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B01BH17MDS&linkCode=as2&tag=tdspvv-21&linkId=119fb8190b161ff8917221bdd39e23ff">aquí</a></p>
 
 
-<h2>Nitecore NU25</h2>
+<h2 id="header6">Nitecore NU25</h2>
 
 <a href="https://www.amazon.es/gp/product/B07CMZKL52/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B07CMZKL52&linkCode=as2&tag=tdspvv-21&linkId=852253aebf65ec1681c8559b4e06e028" target="_blank" imageanchor="1" ><img border="0" src="https://images-na.ssl-images-amazon.com/images/I/61Fy-6jsJxL._AC_SX679_.jpg" width="402" height="160" data-original-width="357"  class="product-img"  style="height:200px;width:402px" data-original-height="500" alt="Nitecore NU25"/></a>
 
@@ -105,7 +128,7 @@ Tenga en cuenta que el Nitecore NU25 tiene cuatro configuraciones de brillo: 360
 <p>Podéis conseguirlo <a target="_blank" href="https://www.amazon.es/gp/product/B07CMZKL52/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B07CMZKL52&linkCode=as2&tag=tdspvv-21&linkId=852253aebf65ec1681c8559b4e06e028">aquí</a></p>
 
 
-<h2>Black Diamond ReVolt 350</h2>
+<h2 id="header7">Black Diamond ReVolt 350</h2>
 
 <a href="https://www.amazon.es/gp/product/B083N529GP/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B083N529GP&linkCode=as2&tag=tdspvv-21&linkId=aabdd9be5620aabb444b0afc2bcce4ef" target="_blank" imageanchor="1" ><img border="0" src="https://images-na.ssl-images-amazon.com/images/I/71zHJunCxYL._AC_SX425_.jpg" width="402" height="160" data-original-width="357"  class="product-img"  style="height:200px;width:402px" data-original-height="500" alt="Black Diamond ReVolt 350"/></a>
 
@@ -121,7 +144,7 @@ En muchos sentidos, el ReVolt es un competidor directo del Petzl Actik Core ante
 
 
 
-<h2>Petzl Iko Core</h2>
+<h2 id="header8">Petzl Iko Core</h2>
 
 <a href="https://www.amazon.es/gp/product/B08CB9XDLB/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B08CB9XDLB&linkCode=as2&tag=tdspvv-21&linkId=e9491ab47732bbce39dfdfdf64512799" target="_blank" imageanchor="1" ><img border="0" src="https://images-na.ssl-images-amazon.com/images/I/71gtZ8gUvpL._AC_SX425_.jpg" width="402" height="160" data-original-width="357"  class="product-img"  style="height:260px;width:402px" data-original-height="500" alt="Petzl Iko Core"/></a>
 
@@ -136,7 +159,7 @@ El Iko Core es algo caro, y deseamos que Petzl haya agregado un poco de espuma a
 
 
 
-<h2>Coast HL7 Focusing</h2>
+<h2 id="header9">Coast HL7 Focusing</h2>
 
 <a href="https://www.amazon.es/gp/product/B00Z7GMDYI/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B00Z7GMDYI&linkCode=as2&tag=tdspvv-21&linkId=0ae26f69d39048da0ef9b6ce43e9c660" target="_blank" imageanchor="1" ><img border="0" src="https://images-na.ssl-images-amazon.com/images/I/81TfA240q7L._AC_SX679_.jpg" width="402" height="160" data-original-width="357"  class="product-img"  style="height:200px;width:402px" data-original-height="500" alt="Coast HL7 Focusing"/></a>
 
@@ -150,7 +173,7 @@ Sus principales deficiencias son la duración y el peso de la batería. Como ref
 <p>Podéis conseguirlo <a target="_blank" href="https://www.amazon.es/gp/product/B00Z7GMDYI/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B00Z7GMDYI&linkCode=as2&tag=tdspvv-21&linkId=0ae26f69d39048da0ef9b6ce43e9c660">aquí</a></p>
 
 
-<h2>Fenix HM50R</h2>
+<h2 id="header10">Fenix HM50R</h2>
 
 <a href="https://www.amazon.es/gp/product/B073RM4HCZ/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B073RM4HCZ&linkCode=as2&tag=tdspvv-21&linkId=d20fa5e8a342f26a578d1d73c095245c" target="_blank" imageanchor="1" ><img border="0" src="https://images-na.ssl-images-amazon.com/images/I/71JgvnfkCYL._AC_SX679_.jpg" width="402" height="160" data-original-width="357"  class="product-img"  style="height:200px;width:402px" data-original-height="500" alt="Fenix HM50R"/></a>
 
@@ -165,7 +188,7 @@ No todo el mundo necesita las características especializadas o la construcción
 
 
 
-<h2>Petzl NAO +</h2>
+<h2 id="header11">Petzl NAO +</h2>
 
 <a href="https://www.amazon.es/gp/product/B01GFPMEXY/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B01GFPMEXY&linkCode=as2&tag=tdspvv-21&linkId=c6273b18e727f820f418907052554ef8" target="_blank" imageanchor="1" ><img border="0" src="https://images-na.ssl-images-amazon.com/images/I/71FqV2Zpv8L._AC_SX425_.jpg" width="402" height="160" data-original-width="357"  class="product-img"  style="height:200px;width:402px" data-original-height="500" alt="Petzl NAO +"/></a>
 
@@ -179,7 +202,7 @@ Con un máximo de 750 lúmenes, el NAO + es increíblemente potente y funciona c
 <p>Podéis conseguirlo <a target="_blank" href="https://www.amazon.es/gp/product/B01GFPMEXY/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B01GFPMEXY&linkCode=as2&tag=tdspvv-21&linkId=c6273b18e727f820f418907052554ef8">aquí</a></p>
 
 
-<h2>Black Diamond Sprinter 275</h2>
+<h2 id="header12">Black Diamond Sprinter 275</h2>
 
 <a href="https://www.amazon.es/gp/product/B01GFPMEXY/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B01GFPMEXY&linkCode=as2&tag=tdspvv-21&linkId=c6273b18e727f820f418907052554ef8" target="_blank" imageanchor="1" ><img border="0" src="https://images-na.ssl-images-amazon.com/images/I/81ChDqxrO9L._AC_SX425_.jpg" width="402" height="160" data-original-width="357"  class="product-img"  style="height:200px;width:402px" data-original-height="500" alt="Black Diamond Sprinter 275"/></a>
 
@@ -193,7 +216,7 @@ El LED único de la Sprinter proporciona un gran equilibrio entre la iluminació
 <p>Podéis conseguirlo <a target="_blank" href="https://www.amazon.es/gp/product/B081B922HS/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B081B922HS&linkCode=as2&tag=tdspvv-21&linkId=2a58307626542aba87e2e30252251522">aquí</a></p>
 
 
-<h2>Black Diamond Storm 400</h2>
+<h2 id="header13">Black Diamond Storm 400</h2>
 
 <a href="https://www.amazon.es/gp/product/B084JCDHP7/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B084JCDHP7&linkCode=as2&tag=tdspvv-21&linkId=c50c1aa325346ba3d9ff41b55c3b4928" target="_blank" imageanchor="1" ><img border="0" src="https://images-na.ssl-images-amazon.com/images/I/71-aEcfmWmL._AC_SX425_.jpg" width="402" height="160" data-original-width="357"  class="product-img"  style="height:200px;width:402px" data-original-height="500" alt="Black Diamond Storm 400"/></a>
 
@@ -208,7 +231,7 @@ Storm y Spot de Black Diamond (arriba) han dominado el mercado de los frontales 
 
 
 
-<h2>Energizer Vision HD</h2>
+<h2 id="header14">Energizer Vision HD</h2>
 
 <a href="https://www.amazon.es/gp/product/B013P5S1KC/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B013P5S1KC&linkCode=as2&tag=tdspvv-21&linkId=a0ed2b47008d4e2902e3fce7484236e1" target="_blank" imageanchor="1" ><img border="0" src="https://images-na.ssl-images-amazon.com/images/I/51%2BGi8IQknL._AC_SX679_.jpg" width="402" height="160" data-original-width="357"  class="product-img"  style="height:220px;width:402px" data-original-height="500" alt="Energizer Vision HD"/></a>
 
@@ -223,7 +246,7 @@ Por el precio, inevitablemente tienes que renunciar a algunas funciones. Aquí, 
 
 
 
-<h2>Petzl e+LITE</h2>
+<h2 id="header15">Petzl e+LITE</h2>
 
 <a href="https://www.amazon.es/gp/product/B01KYTR0HM/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B01KYTR0HM&linkCode=as2&tag=tdspvv-21&linkId=cf8f957792387e973a83117f5e5c57fa" target="_blank" imageanchor="1" ><img border="0" src="https://images-na.ssl-images-amazon.com/images/I/71BwZfs3CaL._SX522_.jpg" width="402" height="160" data-original-width="357"  class="product-img"  style="height:220px;width:402px" data-original-height="500" alt="Petzl e+LITE"/></a>
 

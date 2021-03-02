@@ -17,48 +17,48 @@ Los mejores kits de supervivencia se pueden usar en una variedad de situaciones,
 </p>
 
 <div id="toc_container">
-<p class="toc_title">Contenido</p>
-<ul class="toc_list">
-    <li><a href="#header1">1 Kits recomendados</a>
-        <ul>
-            <li><a href="#header11">1.1 Kit de supervivencia 18 en 1</a></li>
-            <li><a href="#header12">1.2 Kit de supervivencia 21 en 1</a></li>
-            <li><a href="#header13">1.3 Kit de primeros auxilios</a></li>
-            <li><a href="#header14">1.4 Comida de supervivencia</a></li>
-        </ul>
-    </li>
-    <li><a href="#header2">2 Guía de compra</a>
-        <ul>
-            <li><a href="#header21">2.1 Beneficios de un kit de supervivencia</a></li>
-            <li><a href="#header22">2.2 Otras características importantes</a>
-                <ul>
-                    <li><a href="#header221">2.2.1 Tamaño del kit</a></li>
-                    <li><a href="#header222">2.2.2 Tipo</a></li>
-                    <li><a href="#header223">2.2.3 Contenido</a></li>
-                    <li><a href="#header224">2.2.4 Luz</a></li>
-                    <li><a href="#header225">2.2.5 Refugio</a></li>
-                    <li><a href="#header226">2.2.6 Botiquín de primeros auxilios</a></li>
-                    <li><a href="#header227">2.2.7 Productos de higiene</a></li>
-                    <li><a href="#header228">2.2.8 Herramientas</a></li>
-                </ul>
-            </li>
-        </ul>
-    </li>
-    <li><a href="#header3">3 Estar preparado</a>
-    </li>
-    <li><a href="#header4">4 Preguntas frecuentes</a>
-        <ul>
-            <li><a href="#header41">4.1 ¿Que debo incluir en mi kit de supervivencia?</a></li>
-            <li><a href="#header42">4.2 ¿Cuales son las mejores comidas de supervivencia?</a></li>
-            <li><a href="#header43">4.3 ¿Cuales son los 10 elementos imprescindibles?</a></li>
-            <li><a href="#header44">4.4 ¿Ques es lo primero que hay que hacer en una situación de supervivencia?</a></li>
-            <li><a href="#header45">4.5 ¿Ques debe haber en una bolsa de supervivencia para 72 horas?</a></li>
-        </ul>
-    </li>
-    <li>
-      <a href="#header5">5 Conclusión</a>
-    </li>
-</ul>
+    <p class="toc_title">Contenido</p>
+    <ul class="toc_list">
+        <li><a href="#header1">1 Kits recomendados</a>
+            <ul>
+                <li><a href="#header11">1.1 Kit de supervivencia 18 en 1</a></li>
+                <li><a href="#header12">1.2 Kit de supervivencia 21 en 1</a></li>
+                <li><a href="#header13">1.3 Kit de primeros auxilios</a></li>
+                <li><a href="#header14">1.4 Comida de supervivencia</a></li>
+            </ul>
+        </li>
+        <li><a href="#header2">2 Guía de compra</a>
+            <ul>
+                <li><a href="#header21">2.1 Beneficios de un kit de supervivencia</a></li>
+                <li><a href="#header22">2.2 Otras características importantes</a>
+                    <ul>
+                        <li><a href="#header221">2.2.1 Tamaño del kit</a></li>
+                        <li><a href="#header222">2.2.2 Tipo</a></li>
+                        <li><a href="#header223">2.2.3 Contenido</a></li>
+                        <li><a href="#header224">2.2.4 Luz</a></li>
+                        <li><a href="#header225">2.2.5 Refugio</a></li>
+                        <li><a href="#header226">2.2.6 Botiquín de primeros auxilios</a></li>
+                        <li><a href="#header227">2.2.7 Productos de higiene</a></li>
+                        <li><a href="#header228">2.2.8 Herramientas</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </li>
+        <li><a href="#header3">3 Estar preparado</a>
+        </li>
+        <li><a href="#header4">4 Preguntas frecuentes</a>
+            <ul>
+                <li><a href="#header41">4.1 ¿Que debo incluir en mi kit de supervivencia?</a></li>
+                <li><a href="#header42">4.2 ¿Cuales son las mejores comidas de supervivencia?</a></li>
+                <li><a href="#header43">4.3 ¿Cuales son los 10 elementos imprescindibles?</a></li>
+                <li><a href="#header44">4.4 ¿Ques es lo primero que hay que hacer en una situación de supervivencia?</a></li>
+                <li><a href="#header45">4.5 ¿Ques debe haber en una bolsa de supervivencia para 72 horas?</a></li>
+            </ul>
+        </li>
+        <li>
+        <a href="#header5">5 Conclusión</a>
+        </li>
+    </ul>
 </div>
 
 
