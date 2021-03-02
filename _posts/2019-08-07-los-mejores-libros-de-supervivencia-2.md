@@ -82,7 +82,7 @@ comments: true
 <br>
 <p>Con muchos diagramas, suplementos fotográficos e instrucciones concisas, Bushcraft de Mors Kochanski te permitirá conocer las habilidades prácticas y esenciales que son fundamentales para sobrevivir en la naturaleza salvaje. Cazar, acampar, preparar la mochila...</p>
 
-<p>Podéis conseguirlo <a target="_blank" href="https://www.amazon.es/gp/product/1772130079/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=1772130079&linkCode=as2&tag=tdspvv-21&linkId=e1c315f978933f9fc228d785fbe5e382">aquí</a><img src="//ir-es.amazon-adsystem.com/e/ir?t=tdspvv-21&l=am2&o=30&a=1772130079" width="1" height="1" border="0" alt="Bushcraft " style="border:none !important; margin:0px !important;" />.</p>
+<p>Podéis conseguirlo <a target="_blank" href="https://www.amazon.es/gp/product/1772130079/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=1772130079&linkCode=as2&tag=tdspvv-21&linkId=e1c315f978933f9fc228d785fbe5e382">aquí</a><img src="//ir-es.amazon-adsystem.com/e/ir?t=tdspvv-21&l=am2&o=30&a=1468051792//ir-es.amazon-adsystem.com/e/ir?t=tdspvv-21&l=am2&o=30&a=1468051792" width="1" height="1" border="0" alt="Bushcraft " style="border:none !important; margin:0px !important;" />.</p>
 
 <p>Si sabéis algún libro que se haya quedado fuera de la lista, no dudéis en escribir un comentario, para que así todos podamos compartir nuestro conocimiento.</p>
-<p>Si el inglés no es lo vuestro podéis consultar este post con algunos libros en español: {{ site.baseurl }}{% post_url 2018-05-06-mejores-libros-supervivencia %}</p>
+<p>Si el inglés no es lo vuestro podéis consultar este post con algunos libros en español: <a target="_blank" href="{{ site.url }}/{% post_url 2018-05-06-mejores-libros-supervivencia %}" >Mejores libros de supervivencia en español</a></p>
