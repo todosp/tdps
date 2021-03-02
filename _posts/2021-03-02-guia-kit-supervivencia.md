@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Guía para comprar un buen kit de superviencia
+title: Guía para comprar un kit de superviencia
 summary: Nada puede brindarte más tranquilidad que saber que estarás preparado en caso de un desastre. Por eso es vital contar con los mejores kits de supervivencia.
 featured-img: survival-kit
 description: Nada puede brindarte más tranquilidad que saber que estarás preparado en caso de un desastre. Por eso es vital contar con los mejores kits de supervivencia.
@@ -112,7 +112,7 @@ Los mejores kits de supervivencia se pueden usar en una variedad de situaciones,
 
 <h1 id="header2">Guía de compra</h1>
 
-<img src="{{site.url}}/assets/img/posts/survival-kit-2.jpg" alt="kit básico" height="80%" />
+<img src="{{site.url}}/assets/img/posts/survival-kit-2.jpg" alt="kit básico" class="product-img" />
 
 
 <p>

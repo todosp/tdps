@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Los mejores libros de supervivencia 2
+title: Los mejores libros de supervivencia en inglés
 summary: Lo más importante en la supervivencia es la experiencia, por eso estos libros de supervivencia donde auténticos profesionales nos comparten sus conocimientos y experiencias son de muchísima ayuda, ya que ellos seguramente se hayan enfrentado a problemas que nos pueden ocurrir a nostros en cualquier momento. Gracias a la lectura de estos libros podremos salir de estos problemas de forma rápida segura
 featured-img: book
 description: Lo más importante en la supervivencia es la experiencia, por eso estos libros de supervivencia donde auténticos profesionales nos comparten sus conocimientos y experiencias son de gran ayuda
