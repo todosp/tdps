@@ -13,7 +13,39 @@ comments: true
 
 <p>Es por eso que hemos hecho esta selección de filtros portátiles de agua para diferentes ocasiones.</p>
 
-<h1>¿Como funciona un filtro de agua portátil?</h1>
+<div id="toc_container">
+    <p class="toc_title">Contenido</p>
+    <ul class="toc_list">
+        <li><a href="#header1">1 ¿Como funciona un filtro de agua portátil?</a></li>
+        <li><a href="#header2">2 Escoger el mejor filtro de agua portátil</a></li>
+        <li><a href="#header3">3 Los mejores filtros personales</a>
+            <ul>
+                <li><a href="#header31">3.1 Filtro personal LifeStraw</a></li>
+                <li><a href="#header32">3.2 Filtro Survivor</a></li>
+            </ul>
+        </li>
+        <li><a href="#header4">4 Las mejores botellas con filtro</a>
+            <ul>
+                <li><a href="#header41">4.1 Botella de agua LifeStraw Go</a></li>
+            </ul>
+        </li>
+         <li><a href="#header5">5 El purificador de agua portátil mas productivo</a>
+            <ul>
+                <li><a href="#header51">5.1 Filtro de agua Katadyn Vario</a></li>
+                <li><a href="#header52">5.2 Pastillas Micropur purificadoras</a></li>
+            </ul>
+        </li>
+        <li><a href="#header6">6 Las mejores estaciones de filtrado de campamento</a>
+            <ul>
+                <li><a href="#header61">6.1 LifeStraw Mission de alto volumen</a></li>
+                <li><a href="#header62">6.2 Filtro Sawyer Mini</a></li>
+            </ul>
+        </li>
+    </ul>
+</div>
+
+
+<h1 id="header1">¿Como funciona un filtro de agua portátil?</h1>
 
 <p><strong>Limpiado mecánico: </strong> la cerámica y el carbón activado son los elementos principales de la mayoría de filtros de agua portátiles modernos. Los poros en la cerámica son bastante densos, su diámetro alcanza aproximadamente 0.2 micras, y son los que detienen las partículas dañinas, los protozoos y las bacterias. El carbón activado es la mejor manera de lidiar con contaminantes orgánicos. Muchos científicos creen que una combinación de carbón activado y cerámica es la más beneficiosa para la purficiación del agua de la mayoría de los metales pesados, cloro, radón y para reducir el oler y el mal sabor del agua. Se complementan entre sí y se convierten en el material de filtro más eficente.</p>
 
@@ -23,7 +55,7 @@ comments: true
 
 <p><strong>Limpiado químico: </strong> las clásicas pastillas solubles con dióxido de cloro actuan como ingrediente activo que matan a todos los microorganismos en el agua en cuestión de segundos. Este es un método seguro y fácil de usar. El método, aunque rápido, no se recomienda para uso regular ya que los elementos activos pueden destruir completamente no solo las bacterias dañinas, sino también las bacterias útiles para nuestro cuerpo. Esta debe ser una soluciónsi nuestro filtro se ha roto. </p>
 
-<h1>Escoger el mejor filtro de agua portátil</h1>
+<h1 h1 id="header2">Escoger el mejor filtro de agua portátil</h1>
 
 <p>La categoría de filtros portátiles no es la más amplia. A pesar de la gran abundancia de fabricantes de filtros domésticos, la situación es mucho más simple cuando se trata de filtros portátiles. Para evitar comprar productos falsificados, hemos elegido los mejores filtros de marcaen las siguientes categorías: </p>
 
@@ -48,11 +80,11 @@ comments: true
 <p>Hay 4 líderes entre los fabricantes: 2 compañías suizas(LifeStraw y Katadyn) y 2 americanas (Surviror y Sawyer). Todos ellos están en nuestra clasificación.</p>
 
 
-<h1>Los mejores filtros personales</h1>
+<h1 id="header3">Los mejores filtros personales</h1>
 
 <p>En esta categoría, dos modelos compiten por el título de lider. Hay un filtro de pajita que permite beber agua directamente de la fuente de agua y un producto con una pequeña capacidad (0.5 litros) para recoger algo de agua. Su principio de funcionamiento es casi identico, pero, como dicen, el diablo esta en los detalles, y cada fabricante se esfuerza por destacar. Uno de ellos produce filtros para misiones humanitarias y el otro es pionero en el campo de la producción de filtros de agua portátiles.</p>
 
-<h2  style="font-size: 1.8rem">Filtro personal LifeStraw</h2>
+<h2 id="header31">Filtro personal LifeStraw</h2>
 
 <a href="https://www.amazon.es/gp/product/B006QF3TW4/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B006QF3TW4&linkCode=as2&tag=tdspvv-21&linkId=358f4d65be2db6648003f66e929f001b" imageanchor="1" ><img border="0" src="https://images-na.ssl-images-amazon.com/images/I/617MDGsB1qL._AC_SX679_.jpg" width="242" height="320" data-original-width="377" data-original-height="499" alt="Filtro personal LifeStraw"  class="product-img"/></a>
 
@@ -62,10 +94,10 @@ comments: true
 
 <p>La pajita LifeStraw tiene como objetivo protegerte de cualquier bacteria, para que pueda olvidarse de los microorganismos desagradables. Pero no filtra productos químicos, sal, virus, metales pesados o sabores. Algunas personas incluso la han utilizado para purificar aguas aguas residuales de las ciudades.</p>
 
-<p>Podéis conseguirlo <a target="_blank" href="https://www.amazon.es/gp/product/B006QF3TW4/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B006QF3TW4&linkCode=as2&tag=tdspvv-21&linkId=358f4d65be2db6648003f66e929f001b">aqui</a><img src="//ir-es.amazon-adsystem.com/e/ir?t=tdspvv-21&l=am2&o=30&a=B006QF3TW4" width="1" height="1" border="0" alt="link" style="border:none !important; margin:0px !important;" /></p>
+<p>Podéis conseguirlo <a target="_blank" href="https://www.amazon.es/gp/product/B006QF3TW4/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B006QF3TW4&linkCode=as2&tag=tdspvv-21&linkId=358f4d65be2db6648003f66e929f001b">aqui</a></p>
 
 
-<h2  style="font-size: 1.8rem">Filtro Survivor</h2>
+<h2 id="header32">Filtro Survivor</h2>
 
 <a href="https://www.amazon.es/gp/product/B00LA97I8M/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B00LA97I8M&linkCode=as2&tag=tdspvv-21&linkId=e30e4103b3ff2b14a3902b6524a5a777" imageanchor="1" ><img border="0" src="https://images-na.ssl-images-amazon.com/images/I/81-UEsNFJfL._AC_SY879_.jpg" width="242" height="320" data-original-width="377" data-original-height="499" alt="Filtro Survivor"  class="product-img"/></a>
 
@@ -75,12 +107,12 @@ comments: true
 
 <p>Este es el filtro de bolsillo más compacto y conveniente de todos los presentados, y el diseño militar contribuye a esto, ya que es el modelo ideal para fanáticos de quedarse en el barro mientras cazan o pescan, debido a su construcción robusta y el sello completo.</p>
 
-<p>Podéis conseguirlo <a target="_blank" href="https://www.amazon.es/gp/product/B00LA97I8M/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B00LA97I8M&linkCode=as2&tag=tdspvv-21&linkId=e30e4103b3ff2b14a3902b6524a5a777">aqui</a><img src="//ir-es.amazon-adsystem.com/e/ir?t=tdspvv-21&l=am2&o=30&a=B00LA97I8M" width="1" height="1" border="0" alt="link" style="border:none !important; margin:0px !important;" /></p>
+<p>Podéis conseguirlo <a target="_blank" href="https://www.amazon.es/gp/product/B00LA97I8M/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B00LA97I8M&linkCode=as2&tag=tdspvv-21&linkId=e30e4103b3ff2b14a3902b6524a5a777">aqui</a></p>
 
 
-<h1>Las mejores botellas con filtro</h1>
+<h1 id="header4">Las mejores botellas con filtro</h1>
 
-<h2  style="font-size: 1.8rem">Botella de agua LifeStraw Go</h2>
+<h2 id="header41">Botella de agua LifeStraw Go</h2>
 
 <a href="https://www.amazon.es/gp/product/B00H90PFOK/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B00H90PFOK&linkCode=as2&tag=tdspvv-21&linkId=696c00440139a96e776eb56a1bcabe47" imageanchor="1" ><img border="0" src="https://images-na.ssl-images-amazon.com/images/I/613Yk%2BN9BJL._AC_SY879_.jpg" width="242" height="320" data-original-width="377" data-original-height="499" alt="Botella de agua LifeStraw Go"  class="product-img"/></a>
 
@@ -88,11 +120,11 @@ comments: true
 
 <p>LifeStraw Go no te obligará a detenerte regularmente y buscar un arroyo, ya que simpleente tendrás que verter el agua en la botella. Esto se convierte en una ventaja competitiva para aquellos que conquistan picos nevados, ya que este dispositivo derretirá la nieve fácilmente. Pero la mayor ventaja es que no necesitas llevar por separado una botella y un filtro.</p>
 
-<p>Podéis conseguirlo <a target="_blank" href="https://www.amazon.es/gp/product/B00H90PFOK/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B00H90PFOK&linkCode=as2&tag=tdspvv-21&linkId=696c00440139a96e776eb56a1bcabe47">aqui</a><img src="//ir-es.amazon-adsystem.com/e/ir?t=tdspvv-21&l=am2&o=30&a=B00H90PFOK" width="1" height="1" border="0" alt="link" style="border:none !important; margin:0px !important;" /></p>
+<p>Podéis conseguirlo <a target="_blank" href="https://www.amazon.es/gp/product/B00H90PFOK/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B00H90PFOK&linkCode=as2&tag=tdspvv-21&linkId=696c00440139a96e776eb56a1bcabe47">aqui</a></p>
 
-<h1>El purificador de agua portátil mas productivo</h1>
+<h1 id="header5">El purificador de agua portátil mas productivo</h1>
 
-<h2  style="font-size: 1.8rem">Filtro de agua Katadyn Vario</h2>
+<h2  id="header51">Filtro de agua Katadyn Vario</h2>
 
 <a href="https://www.amazon.es/gp/product/B000RZHU9C/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B000RZHU9C&linkCode=as2&tag=tdspvv-21&linkId=6d7f8de5380ddb0b579c5403bd757d6a" imageanchor="1" ><img border="0" src="https://images-na.ssl-images-amazon.com/images/I/81%2B0cufqftL._AC_SY879_.jpg" width="242" height="320" data-original-width="377" data-original-height="499" alt="Filtro de agua Katadyn Vario"  class="product-img"/></a>
 
@@ -102,20 +134,19 @@ comments: true
 
 <p>El detalle más notable sobre el filtro es que el dispositivo puede limpiar hasta 2 litros de agua por minuto.</p>
 
-<p>Podéis conseguirlo <a target="_blank" href="https://www.amazon.es/gp/product/B000RZHU9C/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B000RZHU9C&linkCode=as2&tag=tdspvv-21&linkId=6d7f8de5380ddb0b579c5403bd757d6a">aqui</a><img src="//ir-es.amazon-adsystem.com/e/ir?t=tdspvv-21&l=am2&o=30&a=B000RZHU9C" width="1" height="1" border="0" alt="link" style="border:none !important; margin:0px !important;" /></p>
+<p>Podéis conseguirlo <a target="_blank" href="https://www.amazon.es/gp/product/B000RZHU9C/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B000RZHU9C&linkCode=as2&tag=tdspvv-21&linkId=6d7f8de5380ddb0b579c5403bd757d6a">aquí</a></p>
 
-<h2  style="font-size: 1.8rem">Pastillas Micropur purificadoras</h2>
+<h2  id="header52">Pastillas Micropur purificadoras</h2>
 
 <a href="https://www.amazon.es/gp/product/B006QJN2OA/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B006QJN2OA&linkCode=as2&tag=tdspvv-21&linkId=267192df659f0dae023c3e504a00a7ca" imageanchor="1" ><img border="0" src="https://images-na.ssl-images-amazon.com/images/I/615fw8JMgZL._AC_SY879_.jpg" width="242" height="320" data-original-width="377" data-original-height="499" alt="Filtro de agua Katadyn Vario"  class="product-img"/></a>
 
 <p>Estas tabletas desinfectantes funcionan de manera clara: 1 tableta es capaz de purificar eficazmente un litro de agua de todos los microorganismos y desinfectarlo en 30 minutos. Esta es una gran solución si necesitas limpiar el agua para lavarla y, por lo tanto no es necesario bombear agua. No se recomienda usar agua purificada de manera continua, ya que los elementos químicos afectarán negativamenta a la microflora de tu cuerpo.</p>
 
+<p>Podéis conseguirlo <a target="_blank" href="https://www.amazon.es/gp/product/B006QJN2OA/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B006QJN2OA&linkCode=as2&tag=tdspvv-21&linkId=267192df659f0dae023c3e504a00a7ca">aqui</a></p>
 
-<p>Podéis conseguirlo <a target="_blank" href="https://www.amazon.es/gp/product/B006QJN2OA/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B006QJN2OA&linkCode=as2&tag=tdspvv-21&linkId=267192df659f0dae023c3e504a00a7ca">aqui</a><img src="//ir-es.amazon-adsystem.com/e/ir?t=tdspvv-21&l=am2&o=30&a=B006QJN2OA" width="1" height="1" border="0" alt="link" style="border:none !important; margin:0px !important;" /></p>
+<h1 id="header6">Las mejores estaciones de filtrado de campamento</h1>
 
-<h1>Las mejores estaciones de filtrado de campamento</h1>
-
-<h2 style="font-size: 1.8rem">LifeStraw Mission de alto volumen</h2>
+<h2 id="header61">LifeStraw Mission de alto volumen</h2>
 
 <a href="https://www.amazon.es/gp/product/B00XWAP2W6/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B00XWAP2W6&linkCode=as2&tag=tdspvv-21&linkId=ec0c9ceb2ecc0b8927a38253c15f9366" imageanchor="1" ><img border="0" src="https://images-na.ssl-images-amazon.com/images/I/810MsSa1dEL._AC_SY879_.jpg" width="242" height="320" data-original-width="377" data-original-height="499" alt="LifeStraw Mission de alto volumen"  class="product-img"/></a>
 
@@ -123,9 +154,9 @@ comments: true
 
 <p>El filtro actúa utilizando una tecnología similar a los filtros de agua portátiles y puede filtrar 2 litros por minutos. El dispositivo esta colgado de un mango especial. El diseño es muy robusto y es una gran opción para tener agua en el campamento.</p>
 
-<p>Podéis conseguirlo <a target="_blank" href="https://www.amazon.es/gp/product/B00XWAP2W6/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B00XWAP2W6&linkCode=as2&tag=tdspvv-21&linkId=ec0c9ceb2ecc0b8927a38253c15f9366">aqui</a><img src="//ir-es.amazon-adsystem.com/e/ir?t=tdspvv-21&l=am2&o=30&a=B00XWAP2W6" width="1" height="1" border="0" alt="link" style="border:none !important; margin:0px !important;" /></p>
+<p>Podéis conseguirlo <a target="_blank" href="https://www.amazon.es/gp/product/B00XWAP2W6/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B00XWAP2W6&linkCode=as2&tag=tdspvv-21&linkId=ec0c9ceb2ecc0b8927a38253c15f9366">aqui</a></p>
 
-<h2  style="font-size: 1.8rem">Filtro Sawyer Mini</h2>
+<h2 id="header62">Filtro Sawyer Mini</h2>
 
 <a href="https://www.amazon.es/gp/product/B00FA2RLX2/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B00FA2RLX2&linkCode=as2&tag=tdspvv-21&linkId=6abde7b6bb1eba5d270db9c62c165716" imageanchor="1" ><img border="0" src="https://images-na.ssl-images-amazon.com/images/I/812XaHTx24L._AC_SX679_.jpg" width="242" height="320" data-original-width="377" data-original-height="499" alt="Filtro Sawyer Mini"  class="product-img"/></a>
 
@@ -134,6 +165,6 @@ comments: true
 <p>El sistema de filtración se suminisrea no solo con la punta mecánica, sino también con una bolsa que permite beber literalmente desde cualquier lugar. La punta en sí es portátil, cabe en la palma de la mano y viene con un tubo suplementario para llenar el tanqui. Sin embargo, el producto no es adecuado para cocinar al aire libre. </p>
 
 
-<p>Podéis conseguirlo <a target="_blank" href="https://www.amazon.es/gp/product/B00FA2RLX2/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B00FA2RLX2&linkCode=as2&tag=tdspvv-21&linkId=6abde7b6bb1eba5d270db9c62c165716">aqui</a><img src="//ir-es.amazon-adsystem.com/e/ir?t=tdspvv-21&l=am2&o=30&a=B00FA2RLX2" width="1" height="1" border="0" alt="link" style="border:none !important; margin:0px !important;" /></p>
+<p>Podéis conseguirlo <a target="_blank" href="https://www.amazon.es/gp/product/B00FA2RLX2/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B00FA2RLX2&linkCode=as2&tag=tdspvv-21&linkId=6abde7b6bb1eba5d270db9c62c165716">aqui</a></p>
 
 
