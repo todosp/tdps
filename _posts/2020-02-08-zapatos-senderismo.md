@@ -22,8 +22,6 @@ comments: true
     </ul>
 </div>
 
-
-
 <h2 id="header1">Nort Face Ultra 110 GTX</h2>
 
 <a href="https://www.amazon.es/gp/product/B074KQF9TP/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B074KQF9TP&linkCode=as2&tag=tdspvv-21&linkId=b272441bf6f2fb8b9f7d8ea5afdca7b9" imageanchor="1" ><img border="0" src="https://images-na.ssl-images-amazon.com/images/I/81gV7-quKOL._AC_UX695_.jpg" width="242" height="320" data-original-width="377" data-original-height="499" alt="Zapatos Nort Face Ultra 110 GTX"  class="product-img"/></a>
