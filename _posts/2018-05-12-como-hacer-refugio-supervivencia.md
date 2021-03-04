@@ -23,7 +23,17 @@ Conviene practicar a hacer refugios y pasar la noche en ellos para que cuando re
 El objetivo de un refugio es mantenernos secos y lo mas aislados del frío posible.  Elegir el lugar donde hacerlo también es de vital importancia. A continuación os dejamos algunos diseños básicos para que practiquéis. 
 </p>
 
-<h2>Refugio de desechos</h2>
+
+<div id="toc_container">
+    <p class="toc_title">Contenido</p>
+    <ul class="toc_list">
+        <li><a href="#header1">1 Refugio de desechos</a></li>
+        <li><a href="#header2">2 Cobertizo</a></li>
+        <li><a href="#header3">3 Marco en forma de A o tienda</a></li>
+    </ul>
+</div>
+
+<h2 id="header1">Refugio de desechos</h2>
 
 <p>
 Para construir este refugio solo necesitamos palos y cualquier desecho disponible, como ramas, hojas, corteza, musgo o cualquier tipo de maleza que encontremos. Un refugio de desechos es como un saco de dormir gigante aislado por los desechos y unido por palos. Para construirlo debemos seguir los siguientes pasos:</p>
@@ -43,7 +53,7 @@ A continuación podemos ver a Tom McElroy realizando un refugio de este tipo.</p
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Cfx6I0rajOo" frameborder="0" allowfullscreen></iframe>
 
-<h2>Cobertizo</h2>
+<h2 id="header2">Cobertizo</h2>
 
 <p>Si el tiempo es favorable, este tipo de refugio puede ser una gran opción. Es un refugio abierto consistente en una pared de  inclinada unos 45 grado, en la que se reflejará el calor del fuego, además esta inclinación ayudará a canalizar el agua. Los pasos para realizar este refugio son los siguientes:</p>
 
@@ -61,7 +71,7 @@ A continuación podemos ver a Tom McElroy realizando un refugio de este tipo.</p
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/s1ERTiKvGPM" frameborder="0" allowfullscreen></iframe>
 
-<h2>Marco en forma de A o tienda</h2>
+<h2 id="header3">Marco en forma de A o tienda</h2>
 
 <p>Es la continuación del cobertizo. Consiste en crear otra pared al otro lado del palo largo también a 45 grados y cerrarlo por la parte trasera. Con esto estaremos mas aislados al estar mas resguardados del viento y de la lluvia. Además de guardar mas el calor.</p>
 

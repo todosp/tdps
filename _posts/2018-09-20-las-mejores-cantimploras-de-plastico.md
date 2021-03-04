@@ -17,14 +17,23 @@ La mayor dificultad a la hora de elegir un recipiente para el agua es elegir el 
 <p>
 La principal ventaja es su poco peso. Para climas muy fríos son recomendables ya que protegerán el agua mejor frente a la congelación que las botellas metálicas.
 A la hora de comprarlas hay que mirar que estén libre de BPA. Un gran número de envases tanto plásticos como metálicos contienen esta sustancia que es muy perjudicial para nuestro organismo.
-<p/>
+</p>
 <p>
 Una de sus desventaja es que no podemos hervir agua en ellas, aunque algunas ya viene con un recipiente metálico que se ajusta al contorno de la botella y que podemos usar para este propósito.
-<p/>
+</p>
+
+<div id="toc_container">
+    <p class="toc_title">Contenido</p>
+    <ul class="toc_list">
+        <li><a href="#header1">1 Botella purificadora Water well</a></li>
+        <li><a href="#header2">2 Bidón Nalgene</a></li>
+        <li><a href="#header3">3 Cantimplora Mil-Tec</a></li>
+    </ul>
+</div>
 
 A continuación, os dejamos una selección de nuestras favoritas.
 
-<h2>Botella purificadora Water well</h2>
+<h2 id="header1">Botella purificadora Water well</h2>
 
 <a href="https://2.bp.blogspot.com/-hFj5p5la4WQ/WYZIL-84M1I/AAAAAAAAABY/8V_u4_UAvLo5JhsT056MX7eHZj4JrMOqACLcBGAs/s1600/Travel-water-bottle-box_opt-600x800.jpg" imageanchor="1" ><img border="0" src="{{ '/assets/img/posts/bot_water_well.jpg' | absolute_url }}" width="228" height="320" data-original-width="357"  class="product-img" data-original-height="500" alt="Cantimplora Water well"/></a>
 
@@ -36,7 +45,7 @@ Con esta botella podremos purificiar el agua y eliminar el 99,99% de los parási
 Podéis conseguirla <a target="_blank" href="https://www.amazon.es/gp/product/B01619QNS6/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B01619QNS6&linkCode=as2&tag=todosupervi05-21&linkId=468d00a7fd060dcc6d8a839e33b988dc">aquí</a><img src="//ir-es.amazon-adsystem.com/e/ir?t=todosupervi05-21&l=am2&o=30&a=B01619QNS6" width="1" height="1" border="0" alt="Botella purificadora water well" style="border:none !important; margin:0px !important;" />
 </p>
 
-<h2>Bidón Nalgene</h2>
+<h2 id="header2">Bidón Nalgene</h2>
 
 <a href="https://www.amazon.es/gp/product/B001NCDE98/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B001NCDE98&linkCode=as2&tag=todosupervi05-21&linkId=a3e8b749a5f32de70fdb574eb8284d9a" imageanchor="1" ><img border="0" src="{{ '/assets/img/posts/bot_nalgene.jpg' | absolute_url }}" width="228" height="320" data-original-width="357"  class="product-img" data-original-height="500" alt="Cantimplora Nalgene"/></a>
 
@@ -47,7 +56,7 @@ Nalgene es un fabricante de botellas que se caracteriza por la gran calidad y re
 Podéis conseguirla <a target="_blank" href="https://www.amazon.es/gp/product/B001NCDE98/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B001NCDE98&linkCode=as2&tag=todosupervi05-21&linkId=a3e8b749a5f32de70fdb574eb8284d9a">aquí</a><img src="//ir-es.amazon-adsystem.com/e/ir?t=todosupervi05-21&l=am2&o=30&a=B001NCDE98" width="1" height="1" border="0" alt="Bidon nalgene" style="border:none !important; margin:0px !important;" />
 </p>
 
-<h2>Cantimplora Mil-Tec</h2>
+<h2 id="header3">Cantimplora Mil-Tec</h2>
 
 <a href="https://www.amazon.es/gp/product/B003HQBOJU/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B003HQBOJU&linkCode=as2&tag=todosupervi05-21&linkId=0bbb581c928d1b1a5407788e5ef5b01d" imageanchor="1" ><img border="0" src="{{ '/assets/img/posts/bot_miltech.jpg' | absolute_url }}" width="228" height="320" data-original-width="357"  class="product-img" data-original-height="500" alt="Cantimplora Mil-Tec"/></a>
 

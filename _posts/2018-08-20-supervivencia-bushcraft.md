@@ -14,7 +14,16 @@ comments: true
 Los términos <b>supervivencia</b> y <b>bushcraft</b> a menudo se utilizan indistintamente y otras veces se tratan como disciplinas totalmente diferentes. En este post vamos a ver que significan realmente estas palabra y las cosas comúnes y diferentes que tienen.
 </p>
 
-<h2>Bushcraft, cuando sientes que la naturaleza es tu hogar</h2>
+<div id="toc_container">
+    <p class="toc_title">Contenido</p>
+    <ul class="toc_list">
+        <li><a href="#header1">1 Bushcraft, cuando sientes que la naturaleza es tu hogar</a></li>
+        <li><a href="#header2">2 Supervivencia, cuando estas obligado a sobrevivir perdido en la naturaleza</a></li>
+        <li><a href="#header3">3 Herramientas y técnicas</a></li>
+    </ul>
+</div>
+
+<h2 id="header1">Bushcraft, cuando sientes que la naturaleza es tu hogar</h2>
 
 <img border="0" src="{{ '/assets/img/posts/camping.jpg' | absolute_url }}" width="242" height="320" data-original-width="377" data-original-height="499" alt="camping" />
 
@@ -23,11 +32,11 @@ Aunque el bushcraft se puede practicar como un deporte, es esencialmente una for
 </p>
 <p>Como ves, en el bushcraft no hay una situación externa que nos coloque en la situación de tener que sobrevivir en la naturaleza, es una elección personal. Nuestro deseo es vivir en la naturaleza.</p>
 
-<h2>Supervivencia, cuando estas obligado a sobrevivir perdido en la naturaleza</h2>
+<h2 id="header2">Supervivencia, cuando estas obligado a sobrevivir perdido en la naturaleza</h2>
 
 <p>En la práctica, la supervivencia consiste en aprender a sobrevivir a una situación de emergencia no planificada y no deseada. cuando debido a un accidente nos vemos obligados a permanecer con vida en un entorno natural, a menud0 en situaciones críticas hasta que consigamos ser rescatados o encontremos el camino de vuelta.</p>
 
-<h2>Herramientas y técnicas</h2>
+<h2 id="header3">Herramientas y técnicas</h2>
 
 <img border="0" src="{{ '/assets/img/posts/axe.jpg' | absolute_url }}" width="242" height="320" data-original-width="377" data-original-height="499" alt="hacha" />
 

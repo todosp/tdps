@@ -19,29 +19,45 @@ Un cuchillo de supervivencia es un cuchillo diseñado especialmente para situaci
 Los cuchillos de hoja fija al ser mas resistentes son una mejor opción para situaciones extremas ya que aguantarán mejor los golpes. En contrapartida ocupan mas espacio que los plegables. A la hora de elegir un cuchillo de hoja fija tenemos que tener en cuenta lo siguiente:
 </p>
 
-<h2>Estructura del cuchillo</h2>
+<div id="toc_container">
+    <p class="toc_title">Contenido</p>
+    <ul class="toc_list">
+        <li><a href="#header1">1 Estructura del cuchillo</a></li>
+        <li><a href="#header2">2 Material de la hoja</a></li>
+        <li><a href="#header3">3 Tamaño de la hoja</a></li>
+        <li><a href="#header4">4 Espesor de la hoja</a></li>
+        <li><a href="#header5">5 El mango</a></li>
+        <li><a href="#header6">6 KA-BAR Becker BKR2</a></li>
+        <li><a href="#header7">7 ESEE 6P</a></li>
+        <li><a href="#header8">8 Fallkniven A1 Survival</a></li>
+        <li><a href="#header9">9 Buck 119 special</a></li>
+        <li><a href="#header10">10 Geber bear grylls ultimate pro</a></li>
+    </ul>
+</div>
+
+<h2 id="header1">Estructura del cuchillo</h2>
 
 <img border="0" src="{{ '/assets/img/posts/cuchillo_estructura.png' | absolute_url }}" width="320" height="68" data-original-width="522" data-original-height="111"  alt="estructura cuchillo"/>
 
 <p>Se refiere a la parte de la hoja que se extiende dentro del mango, Hay tres tipos principales, de espiga, enterizo y enterizo parcial. En los enterizos la hoja esta compuesta por una pieza sólida de acero que no se estrecha desde la punta hasta el final del mango. Esto hace que sean más fuertes y resistentes a la flexión que los otros tipos. </p>
 
-<h2>Material de la hoja</h2>
+<h2 id="header2">Material de la hoja</h2>
 
 <p>
 Los mejores metales son el acero inoxidable y el carbono. El filo de los de carbono suele aguantar mas que los de acero inoxidable, en contrapartida son más propensos a la corrosión y necesitan un mayor mantenimiento. Los de acero inoxidable al ser mas resistentes a la corrosión son ideales para entornos húmedos. Sea cual sea el material que elijas, asegúrate que éste es de calidad.
 </p>
 
-<h2>Tamaño de la hoja</h2>
+<h2 id="header3">Tamaño de la hoja</h2>
 
 <p>La longitud optima para una hoja esta entre los 10 y 18 cms. Con una hoja de este tamaño lograremos realizar la mayoría de tareas sin ser demasiado grande</p>
 
-<h2>Espesor de la hoja</h2>
+<h2 id="header4">Espesor de la hoja</h2>
 
 <p>
 La flexión de la hoja es algo que no queremos, por lo que necesitamos algo lo suficientemente ancho como para que esto no ocurra, pero al mismo tiempo también queremos que la hoja sea lo suficientemente estrecha para los trabajos más delicado como pelar o tallar.El punto medio optimo esta entre los 0,4 y 0,6 centímetros.
 </p>
 
-<h2>El mango</h2>
+<h2 id="header5">El mango</h2>
 
 <p>
 Las características mas importante que tiene que tener un mango son: resistencia, durabilidad y agarre. Los mejores materiales para el mango son sintéticos, como <a href="https://en.wikipedia.org/wiki/Kraton_(polymer)" target="_blank">kraton</a>, <a href="https://en.wikipedia.org/wiki/Micarta" target="_blank">micarta</a> o <a href="https://en.wikipedia.org/wiki/G10_(material)" target="_blank">G-10</a>. Estos materiales son prácticamente indestructibles, durables y tienen un agarre que realmente merecen la pena.
@@ -51,7 +67,8 @@ Las características mas importante que tiene que tener un mango son: resistenci
 Finalmente veamos la selección de cuchillos que hemos realizado siguiendo estos criterios.
 </p>
 
-<h2>KA-BAR Becker BKR2</h2>
+
+<h2 id="header6">KA-BAR Becker BKR2</h2>
 
 <img border="0" src="{{ '/assets/img/posts/cu_kabar.jpg' | absolute_url }}" width="320" height="75" data-original-width="800" data-original-height="187" alt="KA-BAR Becker BKR2"/>
 
@@ -62,7 +79,7 @@ Es uno de los cuchillos de supervivencia mas populares del mercado. Es muy resis
 Podéis conseguirlo <a target="_blank" href="https://www.amazon.es/gp/product/B001N1DPDE/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B001N1DPDE&linkCode=as2&tag=tdspvv-21&linkId=5cdc86a773dba62a50409852262a1181">aqui</a><img src="//ir-es.amazon-adsystem.com/e/ir?t=todosupervi05-21&l=am2&o=30&a=B001N1DPDE" width="1" height="1" border="0" alt="KA-BAR Becker BKR2" style="border:none !important; margin:0px !important;" />
 
 
-<h2>ESEE 6P</h2>
+<h2 id="header7">ESEE 6P</h2>
 
 <img border="0" src="{{ '/assets/img/posts/cu_esee.jpg' | absolute_url }}" width="320" height="52" data-original-width="800" data-original-height="131" alt="ESEE 6P"/>
 
@@ -73,7 +90,7 @@ ESEE es conocida por la calidad de sus diseños. Su hoja drop-point esta hecho d
 
 Podéis conseguirlo <a target="_blank" href="https://www.amazon.es/gp/product/B00GX8ZYMM/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B00GX8ZYMM&linkCode=as2&tag=tdspvv-21&linkId=8a4e85970bad9cfea357c2f0fefbdd37">aqui</a><img src="//ir-es.amazon-adsystem.com/e/ir?t=todosupervi05-21&l=am2&o=30&a=B00GX8ZYMM" width="1" height="1" border="0" alt="ESEE 6P" style="border:none !important; margin:0px !important;" />
 
-<h2>Fallkniven A1 Survival</h2>
+<h2 id="header8">Fallkniven A1 Survival</h2>
 
 <img border="0" src="{{ '/assets/img/posts/cu_fall.jpg' | absolute_url }}" width="320" height="90" data-original-width="800" data-original-height="226" alt="Fallkniven A1 Survival">
 
@@ -81,7 +98,7 @@ Podéis conseguirlo <a target="_blank" href="https://www.amazon.es/gp/product/B0
 
 Podéis conseguirlo <a target="_blank" href="https://www.amazon.es/gp/product/B001DZM482/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B001DZM482&linkCode=as2&tag=tdspvv-21&linkId=2a7a7fc9d1829d3cddac5920bd0e0f91">aquí</a><img src="//ir-es.amazon-adsystem.com/e/ir?t=tdspvv-21&l=am2&o=30&a=B001DZM482" width="1" height="1" border="0" alt="Fallkniven A1 Survival" style="border:none !important; margin:0px !important;" />
 
-<h2>Buck 119 special</h2>
+<h2 id="header9">Buck 119 special</h2>
 
 <img border="0" src="{{ '/assets/img/posts/cu_buck.jpg' | absolute_url }}" width="400" height="81" data-original-width="850" data-original-height="173" alt="Buck 119 special" />
 
@@ -90,7 +107,7 @@ Podéis conseguirlo <a target="_blank" href="https://www.amazon.es/gp/product/B0
 Podéis conseguirlo <a target="_blank" href="https://www.amazon.es/gp/product/B002YP3A1K/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B002YP3A1K&linkCode=as2&tag=tdspvv-21&linkId=29175ae2f4dda2582b88fe328af66d0d">aqui</a><img src="//ir-es.amazon-adsystem.com/e/ir?t=todosupervi05-21&l=am2&o=30&a=B002YP3A1K" width="1" height="1" border="0" alt="Buck 119 special" style="border:none !important; margin:0px !important;" />
 
 
-<h2>Geber bear grylls ultimate pro</h2>
+<h2 id="header10">Geber bear grylls ultimate pro</h2>
 
 <img border="0" src="{{ '/assets/img/posts/cu_bear.jpg' | absolute_url }}" width="400" height="244" data-original-width="800" data-original-height="487" alt="Geber bear grylls ultimate pro">
 

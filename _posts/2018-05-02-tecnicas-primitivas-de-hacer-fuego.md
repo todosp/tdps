@@ -15,9 +15,20 @@ redirect_from:
 
 <p>En situaciones de supervivencia ser capaz de hacer un fuego, puede significar la diferencia entre la vida y la muerte. Pero ¿que pasa si no tenemos ninguna de nuestras herramientas para hacer fuego? Tendremos que usar nuestras habilidades primitivas para hacerlo. Es bueno practicarlas y estar preparado si alguna vez tenemos que hacer uso de estas técnicas.</p>
 
+<div id="toc_container">
+    <p class="toc_title">Contenido</p>
+    <ul class="toc_list">
+        <li><a href="#header1">1 Taladro de mano</a></li>
+        <li><a href="#header2">2 Volante de inercia</a></li>
+        <li><a href="#header3">3 método de sierra</a></li>
+        <li><a href="#header4">4 Sierra con bambú</a></li>
+        <li><a href="#header5">5 Piedra de sílex</a></li>
+    </ul>
+</div>
+
 <p>En este artículo vamos a mostraros varios métodos primitivos para realizar fuego, para que decidáis cual es el mejor.</p> 
 
-<h2>Taladro de mano</h2>
+<h2 id="header1">Taladro de mano</h2>
 
 <p>Esta técnica también se conoce con el nombre de fuego por fricción manual. Requiere una gran cantidad energía y paciencia, ya que es una técnica bastante difícil de realizar. Todo lo que necesitamos para comenzar es un
 palo recto y cilindrico para el taladro y una base de madera que están lo mas seco posible. Las maderas del taladro y la base deben ser de densidad similar, y es aconsejable que el taladro se más duro que la base. Consiste en hacer girar el taladro con la palma de las manos generando suficiente fricción entre las maderas hasta que se genere una brasa. Estos son los pasos que hay que seguir para conseguirlo:
@@ -58,7 +69,7 @@ También conocida como arco de fuego, las herramientas para este método son má
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZwwGY3W366I" frameborder="0" allowfullscreen></iframe>
 
-<h2>Volante de inercia</h2>
+<h2 id="header2">Volante de inercia</h2>
 
 <p>
 Es la técnica con las herramientas mas difíciles de construir, ya que tiene una mecánica más compleja. Una vez realizadas las herramientas no necesitaremos mucho esfuerzo para conseguir las ascuas. Para ello hay que seguir los siguientes pasos:
@@ -84,7 +95,7 @@ Es la técnica con las herramientas mas difíciles de construir, ya que tiene un
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Duvi3iZ0iaM" frameborder="0" allowfullscreen></iframe>
 
-<h2>método de sierra</h2>
+<h2 id="header3">método de sierra</h2>
 
 <p>Es una de los métodos de mas fácil construcción. Consiste en frotar un palo en una manera haciendo movimiento de sierra que intenta cortar la madera verticalmente.
 Los pasos para realizar esta técnica son los siguientes:</p>
@@ -101,7 +112,7 @@ Los pasos para realizar esta técnica son los siguientes:</p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aSpioDPX3ic" frameborder="0" allowfullscreen></iframe>
 
-<h2>Sierra con bambú</h2>
+<h2 id="header4">Sierra con bambú</h2>
 
 <p>Para este método solo necesitamos una caña de bambú. Consiste en frotar dos piezas de bambú hasta que aparezcan las brasas. Para ello realizaremos los siguientes pasos:</p>
 
@@ -115,8 +126,7 @@ Los pasos para realizar esta técnica son los siguientes:</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kD6-ILiy834" frameborder="0" allowfullscreen></iframe>
 
 
-
-<h2>Piedra de sílex</h2>
+<h2 id="header5">Piedra de sílex</h2>
 
 <p>Esta es una de las técnicas mas fáciles de hacer fuego, para ello necesitamos una trozo de sílex y una pieza de acero, como por ejemplo nuestro cuchillo. La fricción entre los dos generará chispas. Para conseguirlo tendremos que hacer lo siguiente:</p>
 
