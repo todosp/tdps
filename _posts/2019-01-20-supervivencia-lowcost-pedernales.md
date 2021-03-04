@@ -13,8 +13,19 @@ comments: true
  Son muchos los que después  de ver todos los capitulos de <a href="http://www.dmax.marca.com/series/supervivencia/el-ultimo-superviviente">El último superviviente</a> o <a href="https://es.dplay.com/dmax/duo-de-superviventes/">Duo de supervivientes</a> piensan "yo también quiero estar preparado para cualquier situación de supervivencia, me gustaría tener un pedernal de esos para ver si soy capaz de encender un fuego con el". Si sigues leyendo descubriras que hay opciones muy baratas con las que puedes "jugar" y aprender a hacer fuego en cualquier situación. No te olvides de practicar en un lugar seguro.
 </p>
 
+<div id="toc_container">
+    <p class="toc_title">Contenido</p>
+    <ul class="toc_list">
+        <li><a href="#header1">1 Mechero solar</a></li>
+        <li><a href="#header2">2 Pedernal con depósito</a></li>
+        <li><a href="#header3">3 Encendedor de magnesio</a></li>
+        <li><a href="#header4">4 Pedernal clásico</a></li>
+        <li><a href="#header5">5 Pedernal resistente al agua</a></li>
+    </ul>
+</div>
 
-<h2>Mechero solar</h2>
+
+<h2 id="header1">Mechero solar</h2>
 
 <img src="https://ae01.alicdn.com/kf/HTB1bNvZSFXXXXbUXXXXq6xXFXXXs/Camping-senderismo-supervivencia-al-aire-libre-solar-Spark-viento-Fire-Starter-emergencia-fuego-encendido.jpg" class="product-img" alt="Mechero solar">
 
@@ -24,7 +35,7 @@ comments: true
 Podéis conseguirlo <a href="http://s.click.aliexpress.com/e/LjRyoeG" target="_parent">aquí</a>
 </p>
 
-<h2>Pedernal con depósito</h2>
+<h2 id="header2">Pedernal con depósito</h2>
 
 <img src="https://ae01.alicdn.com/kf/HTB166O2JXXXXXajXXXXq6xXFXXXK/Arrancador-de-fuego-del-pedernal-partidos-port-til-en-forma-de-botella-herramienta-de-supervivencia-Kit.jpg" class="product-img" alt="Pedernal con depósito">
 
@@ -34,7 +45,7 @@ Podéis conseguirlo <a href="http://s.click.aliexpress.com/e/LjRyoeG" target="_p
 <p>Podéis conseguirlo <a href="http://s.click.aliexpress.com/e/clNcRZ3i" target="_parent">aquí</a></p>
 
 
-<h2>Encendedor de magnesio</h2>
+<h2 id="header3">Encendedor de magnesio</h2>
 
 <img src="https://gloimg.gbtcdn.com/soa/gb/pdm-product-pic/Electronic/2018/07/18/source-img/20180718111957_46900.jpg" class="product-img" alt="Encendedor de magnesio">
 
@@ -44,8 +55,7 @@ Podéis conseguirlo <a href="http://s.click.aliexpress.com/e/LjRyoeG" target="_p
 <p>Podéis conseguirlo <a href="https://www.gearbest.com/fire-starter/pp_009647784778.html?wid=1433363&lkid=15764114" target="_parent">aquí</a> </p>
 
 
-
-<h2>Pedernal clásico</h2>
+<h2 id="header4">Pedernal clásico</h2>
 
 <img src="https://gloimg.gbtcdn.com/soa/gb/pdm-provider-img/straight-product-img/20180621/T019814/T0198140185/goods-img/1529528975157553870.jpg" class="product-img" alt="Pedernal clásico">
 
@@ -54,7 +64,7 @@ Podéis conseguirlo <a href="http://s.click.aliexpress.com/e/LjRyoeG" target="_p
 <p>Podéis conseguirlo <a href="https://www.gearbest.com/other-camping-gadgets/pp_009231504445.html?wid=1433363&lkid=15747017" target="_parent">aquí</a></p>
 
 
-<h2>Pedernal resistente al agua</h2>
+<h2 id="header5">Pedernal resistente al agua</h2>
 
 <img src="https://gloimg.gbtcdn.com/gb/pdm-product-pic/Electronic/2016/06/23/source-img/20160623113200_41077.jpg" class="product-img" alt="Pedernal resistente al agua">
 
