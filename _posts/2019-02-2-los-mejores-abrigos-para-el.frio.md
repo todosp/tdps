@@ -15,13 +15,33 @@ comments: true
 
 <p>Si estas buscando un nuevo abrigo y no sabes cual comprar, este post te echará una mano en esa tarea. Te traemos algunos de los mejores productos que te permitirán ir cómodo con mal tiempo y así disfrutar de tus escapadas en la naturaleza.</p>
 
-<h1>¿Por que necesito una chaqueta de supervivencia?</h1>
+<div id="toc_container">
+    <p class="toc_title">Contenido</p>
+    <ul class="toc_list">
+        <li><a href="#header1">1 ¿Por que necesito una chaqueta de supervivencia?</a></li>
+        <li><a href="#header2">2 ¿Cuales son los tipos de abrigos de supervivencia?</a></li>
+        <li><a href="#header3">3 Como elegir el mejor abrigo </a></li>
+        <li><a href="#header4">4 Los mejores abrigos de supervivencia</a>
+          <ul>
+            <li><a href="#header41">4.1 North Face Thermoball Full Zip</a></li>
+            <li><a href="#header42">4.2 Arctix Tundra</a></li>
+            <li><a href="#header43">4.3 Chaqueta Soft Shell Rothco Special Ops</a></li>
+            <li><a href="#header44">4.4 Columbia Frost-Fighter</a></li>
+            <li><a href="#header45">4.5 Chaqueta de montaña de Bear Grylls</a></li>
+            <li><a href="#header46">4.6 Chaqueta softshell TACVASEN</a></li>
+            <li><a href="#header47">4.7 Ternua shive</a></li>
+          </ul>
+        </li>   
+    </ul>
+</div>
+
+<h1 id="header1">¿Por que necesito una chaqueta de supervivencia?</h1>
 
 <p>Para sobrevivir al aire libre. Esta es la razón principal que necesitas para invertir en una buena chaqueta de supervivencia. Si piensas que cualquier abrigo es suficiente, estas equivocado. Tu chaqueta del día a día puede protegerte del frio, pero eso no es lo único que necesitas.</p>
 
 <p>Necesitas un chaquetón de supervivencia para hacer frente a las inclemencias e incertidumbre del aire libre. No solo estar aislado, sino también impermeabilizado para mantenerte seco. Tener costuras selladas y de alta calidad para que el agua no penetre en el interior. Sin embargo, a pesar de todos los elementos de protección tiene que ser liviano para mayor comodidad</p>
 
-<h1>¿Cuales son los tipos de abrigos de supervivencia?</h1>
+<h1 id="header2">¿Cuales son los tipos de abrigos de supervivencia?</h1>
 
 <p>Para decir cual comprar, necesitas estar familiarizado con los diferentes tipos disponibles y decidir cual es que mas se adecua a tus necesidades y preferencias:</p>
 
@@ -32,7 +52,7 @@ comments: true
   <li>Chaquetón de lana: Muchas chaquetas están hechas de poliester con propiedades similares a la lana. Son una buena opción cuando hace frío pero no demasiado.</li>
 </ul>
 
-<h1>Como elegir el mejor abrigo</h1>
+<h1 id="header3">Como elegir el mejor abrigo</h1>
 
 <p>Anteriormente hemos listado algunas de las mejores opciones que puedes tener ene cuenta, a continuación listamos algunos de los factores mas importantes a considerar para reducir las opciones:</p>
 
@@ -44,11 +64,11 @@ comments: true
   <li>Estilo: La estética no es algo que debas ignorar.</li>
 </ul>
 
-<h1>Los mejores abrigos de supervivencia</h1>
+<h1 id="header4">Los mejores abrigos de supervivencia</h1>
 
 <p>En esta sección te traemos abrigos que realmente merencen su dinero. Además te damos buenas razones para su elección.</p>
 
-<h2>North Face Thermoball Full Zip</h2>
+<h2  id="header41">North Face Thermoball Full Zip</h2>
 
 <a href="https://www.amazon.es/gp/product/B078H7WNBL/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B078H7WNBL&linkCode=as2&tag=tdspvv-21&linkId=9dc4f2059627b358e39a4c0fd1a2b3ca" imageanchor="1" ><img  src="https://images-na.ssl-images-amazon.com/images/I/91av91hOjzL._SX522_.jpg" class="product-img" alt="North Face Thermoball Full Zip" /></a>
 
@@ -63,7 +83,7 @@ comments: true
 <p>A pesar de ser gruesa y aislante, se trata de una chaqueta liviana, por lo que es perfecta para llevarla allí donde vayas.</p>
 <p>Podéis conseguirla <a target="_blank" href="https://www.amazon.es/gp/product/B078H7WNBL/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B078H7WNBL&linkCode=as2&tag=tdspvv-21&linkId=9dc4f2059627b358e39a4c0fd1a2b3ca">aquí</a><img src="//ir-es.amazon-adsystem.com/e/ir?t=tdspvv-21&l=am2&o=30&a=B00V9XMEYW" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></p>
 
-<h2>Arctix Tundra</h2>
+<h2  id="header42">Arctix Tundra</h2>
 
 <a href="https://www.amazon.es/gp/product/B00V9XMEYW/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B00V9XMEYW&linkCode=as2&tag=tdspvv-21&linkId=ec21e5c98f76afecc2874e8097550fce" imageanchor="1" ><img  src="https://images-na.ssl-images-amazon.com/images/I/91xoQfNH6ZL._SY879_.jpg" class="product-img" alt="Artix tundra" /></a>
 
@@ -83,7 +103,7 @@ Podéis conseguirla <a target="_blank" href="https://www.amazon.es/gp/product/B0
 Además incluye una capucha extraíble y un forro reflectante para mayor visibilidad. Tiene una gran cantidad de bolsillos que proporcionan un fácil acceso a las cosas que lleves contigo
 </p>
 
-<h1>Chaqueta Soft Shell Rothco Special Ops</h1>
+<h2 id="header43">Chaqueta Soft Shell Rothco Special Ops</h2>
 
 <a href="https://www.amazon.es/gp/product/B005SR0KUK/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B005SR0KUK&linkCode=as2&tag=tdspvv-21&linkId=72480ffc35bae58e9c8744292c6dc365" imageanchor="1" ><img  src="https://images-na.ssl-images-amazon.com/images/I/71dL7S3kYxL._SL1500_.jpg" class="product-img" alt="Soft shell rothco" /></a>
 
@@ -93,10 +113,9 @@ Además incluye una capucha extraíble y un forro reflectante para mayor visibil
 
 <p>Dabajo de los brazos, también  hay cremalleras que sonmuy buenas para ventilar. También cuenta con cierres en las muñecas muy buenos.</p>
 
-
 <p>Podéis conseguirla <a target="_blank" href="https://www.amazon.es/gp/product/B005SR0KUK/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B005SR0KUK&linkCode=as2&tag=tdspvv-21&linkId=d45deb588a9bdf7a1f5f507a90bb9c3f">aquí</a><img src="//ir-es.amazon-adsystem.com/e/ir?t=tdspvv-21&l=am2&o=30&a=B005SR0KUK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></p>
 
-<h1>Columbia Frost-Fighter</h1>
+<h2 id="header44">Columbia Frost-Fighter</h2>
 
 <a href="https://www.amazon.es/gp/product/B00HQ4JX2O/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B00HQ4JX2O&linkCode=as2&tag=tdspvv-21&linkId=1139d2759e62a6626105c641af26824a" imageanchor="1" ><img  src="https://images-na.ssl-images-amazon.com/images/I/91%2B0%2BLL6nSL._UX679_.jpg" class="product-img" alt="Columbia Frost-Fighter" /></a>
 
@@ -108,7 +127,7 @@ Además incluye una capucha extraíble y un forro reflectante para mayor visibil
 
 <p>Podéis conseguirlo <a target="_blank" href="https://www.amazon.es/gp/product/B00HQ4JX2O/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B00HQ4JX2O&linkCode=as2&tag=tdspvv-21&linkId=1139d2759e62a6626105c641af26824a">aquí</a><img src="//ir-es.amazon-adsystem.com/e/ir?t=tdspvv-21&l=am2&o=30&a=B00HQ4JX2O" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></p>
 
-<h1>Chaqueta de montaña de Bear Grylls</h1>
+<h2  id="header45">Chaqueta de montaña de Bear Grylls</h2>
 
 <a href="https://www.amazon.es/gp/product/B00DPDOB6S/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B00DPDOB6S&linkCode=as2&tag=tdspvv-21&linkId=05d928bb5e925d772fb04ac69c2c5fa8" imageanchor="1" ><img  src="https://images-na.ssl-images-amazon.com/images/I/81wGnZCI4JL._SX522_.jpg" class="product-img" alt="Chaqueta Bear Grylls" /></a>
 
@@ -119,7 +138,7 @@ Además incluye una capucha extraíble y un forro reflectante para mayor visibil
 <p>Podéis conseguirlo <a target="_blank" href="https://www.amazon.es/gp/product/B00DPDOB6S/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B00DPDOB6S&linkCode=as2&tag=tdspvv-21&linkId=05d928bb5e925d772fb04ac69c2c5fa8">aquí</a><img src="//ir-es.amazon-adsystem.com/e/ir?t=tdspvv-21&l=am2&o=30&a=B00DPDOB6S" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></p>
 
 
-<h1>Chaqueta softshell TACVASEN</h1>
+<h2 id="header46">Chaqueta softshell TACVASEN</h2>
 
 <a href="https://www.amazon.es/gp/product/B01M7O8MVX/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B01M7O8MVX&linkCode=as2&tag=tdspvv-21&linkId=ccf05f23af6226bacc1f42e86204ecbc" imageanchor="1" ><img  src="https://images-na.ssl-images-amazon.com/images/I/71JHALmh7ML._SX425_.jpg" class="product-img" alt="Softshell TACVASEN" /></a>
 
@@ -129,7 +148,7 @@ Además incluye una capucha extraíble y un forro reflectante para mayor visibil
 
 <p>Podéis conseguirla <a target="_blank" href="https://www.amazon.es/gp/product/B01M7O8MVX/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B01M7O8MVX&linkCode=as2&tag=tdspvv-21&linkId=ccf05f23af6226bacc1f42e86204ecbc">aquí</a><img src="//ir-es.amazon-adsystem.com/e/ir?t=tdspvv-21&l=am2&o=30&a=B01M7O8MVX" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></p>
 
-<h1>Ternua shive</h1>
+<h2 id="header47">Ternua shive</h2>
 
 <a href="https://www.amazon.es/gp/product/B07B5DLJ1V/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B07B5DLJ1V&linkCode=as2&tag=tdspvv-21&linkId=e10f728823e39e4bcf93cee7c2886c64" imageanchor="1" ><img  src="https://images-na.ssl-images-amazon.com/images/I/912VSbEPqbL._SX425_.jpg" class="product-img" alt="Ternua shive" /></a>
 
